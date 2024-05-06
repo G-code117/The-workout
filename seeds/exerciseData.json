@@ -321,16 +321,156 @@
      },
      {
         "musclegroup_id": 6,
-        "name": "",
-        "gif": "",
-        "equipment": "",
-        "instructions": ""
+        "name": "Neck side stretch",
+        "gif": "https://v2.exercisedb.io/image/k1VHATuGRF5Gvu",
+        "equipment": "Body Weight",
+        "instructions": "Stand or sit up straight with your shoulders relaxed. Tilt your head to one side, bringing your ear towards your shoulder. Hold the stretch for 15-30 seconds. Repeat on the other side. Perform 2-4 sets on each side."
      },
      {
         "musclegroup_id": 6,
-        "name": "",
-        "gif": "",
-        "equipment": "",
-        "instructions": ""
-     }
+        "name": "Side push neck stretch",
+        "gif": "https://v2.exercisedb.io/image/FeLTikpD-jGaKs",
+        "equipment": "Body Weight",
+        "instructions": "Stand or sit up straight with your shoulders relaxed. Tilt your head to the right, bringing your right ear towards your right shoulder. Place your right hand on the left side of your head and gently apply pressure to increase the stretch. Hold the stretch for 15-30 seconds. Repeat on the other side, tilting your head to the left and applying pressure with your left hand. Repeat the stretch 2-3 times on each side."
+     },
+     {
+         "musclegroup_id": 7,
+         "name": "Barbell front raise",
+         "gif": "https://v2.exercisedb.io/image/qC33CptYqvBsUp",
+         "equipment": "Barbell",
+         "instructions": "Stand with your feet shoulder-width apart and hold a barbell in front of your thighs with an overhand grip. Keep your arms straight and lift the barbell forward and upward until it reaches shoulder level. Pause for a moment at the top, then slowly lower the barbell back down to the starting position. Repeat for the desired number of repetitions."
+      },
+      {
+         "musclegroup_id": 7,
+         "name": "Barbell seated overhead press",
+         "gif": "https://v2.exercisedb.io/image/Q7WTLIs5nIsMcW",
+         "equipment": "Barbell",
+         "instructions": "Sit on a bench with your back straight and feet flat on the ground. Hold the barbell with an overhand grip, slightly wider than shoulder-width apart. Lift the barbell off the rack and bring it to shoulder level, with your elbows bent and palms facing forward. Press the barbell overhead by extending your arms fully. Pause for a moment at the top, then slowly lower the barbell back to shoulder level. Repeat for the desired number of repetitions."
+      },
+      {
+         "musclegroup_id": 7,
+         "name": "Barbell rear delt raise",
+         "gif": "https://v2.exercisedb.io/image/n8t4y0zmTw304u",
+         "equipment": "Barbell",
+         "instructions": "Stand with your feet shoulder-width apart and hold a barbell with an overhand grip, palms facing down. Bend your knees slightly and hinge forward at the hips, keeping your back straight. Raise the barbell out to the sides, keeping your arms straight, until they are parallel to the ground. Pause for a moment at the top, then slowly lower the barbell back to the starting position. Repeat for the desired number of repetitions."
+      },
+      {
+         "musclegroup_id": 7,
+         "name": "Battling ropes",
+         "gif": "https://v2.exercisedb.io/image/5PJUdqUnHAqGct",
+         "equipment": "Rope",
+         "instructions": "Stand with your feet shoulder-width apart and knees slightly bent. Hold one end of the rope in each hand, with your palms facing each other. Raise your arms to shoulder height, keeping your elbows slightly bent. Begin making alternating waves with the ropes by rapidly raising and lowering each arm. Continue for the desired duration or number of repetitions."
+      },
+      {
+         "musclegroup_id": 7,
+         "name": "Cable lateral raise",
+         "gif": "https://v2.exercisedb.io/image/EAGehV9uxfJDri",
+         "equipment": "Cable",
+         "instructions": "Stand with your feet shoulder-width apart and grasp the cable handles with an overhand grip. Keep your arms straight and your core engaged. Raise your arms out to the sides until they are parallel to the floor. Pause for a moment at the top, then slowly lower your arms back down to the starting position. Repeat for the desired number of repetitions."
+      },
+      {
+         "musclegroup_id": 7,
+         "name": "Cable seated rear lateral raise",
+         "gif": "https://v2.exercisedb.io/image/XxJl1zC6k9odtp",
+         "equipment": "Cable",
+         "instructions": "Sit on a bench facing the cable machine with your feet flat on the ground. Grasp the cable handles with an overhand grip and extend your arms straight in front of you. Keeping your arms straight, slowly raise them out to the sides until they are parallel to the floor. Pause for a moment at the top, then slowly lower your arms back to the starting position. Repeat for the desired number of repetitions."
+      },
+      {
+         "musclegroup_id": 7,
+         "name": "Cable standing cross-over high reverse fly",
+         "gif": "https://v2.exercisedb.io/image/44GUFrMnZcdVbW",
+         "equipment": "Cable",
+         "instructions": "Attach a D-handle to each side of a cable machine at shoulder height. Stand in the middle of the cable machine with your feet shoulder-width apart. Grasp the handles with an overhand grip and extend your arms out to the sides, palms facing forward. Keep a slight bend in your elbows and maintain a straight back throughout the exercise. Engage your shoulder muscles and squeeze your shoulder blades together as you pull the handles towards the front of your body. Pause for a moment at the peak of the movement, then slowly return to the starting position. Repeat for the desired number of repetitions."
+      },
+      {
+         "musclegroup_id": 7,
+         "name": "Dumbbell arnold press",
+         "gif": "https://v2.exercisedb.io/image/a3jaye2BGMWNID",
+         "equipment": "Dumbbell",
+         "instructions": "Sit on a bench with back support and hold a dumbbell in each hand at shoulder level, palms facing your body and elbows bent. Press the dumbbells upward until your arms are fully extended and your palms are facing forward. Rotate your wrists as you lift, so that your palms are facing forward at the top of the movement. Pause for a moment at the top, then slowly lower the dumbbells back to the starting position. Repeat for the desired number of repetitions."
+      },
+      {
+         "musclegroup_id": 7,
+         "name": "Dumbbell cuban press",
+         "gif": "https://v2.exercisedb.io/image/rbKyTIvgf8C30M",
+         "equipment": "Dumbbell",
+         "instructions": "Stand with your feet shoulder-width apart, holding a dumbbell in each hand at shoulder height with your palms facing down. Keeping your core engaged and your back straight, press the dumbbells straight up overhead until your arms are fully extended. Rotate your wrists so that your palms are facing forward. Lower the dumbbells back down to shoulder height, rotating your wrists back to the starting position. Repeat for the desired number of repetitions."
+      },
+      {
+         "musclegroup_id": 7,
+         "name": "Dumbbell full can lateral raise",
+         "gif": "https://v2.exercisedb.io/image/gARFBF6H1gR1Vt",
+         "equipment": "Dumbbell",
+         "instructions": "Stand with your feet shoulder-width apart, holding a dumbbell in each hand with your palms facing your body. Keep your back straight and engage your core. Raise your arms out to the sides, keeping a slight bend in your elbows, until they are parallel to the ground. Pause for a moment at the top, then slowly lower your arms back down to the starting position. Repeat for the desired number of repetitions."
+      },
+      {
+         "musclegroup_id": 8,
+         "name": "",
+         "gif": "",
+         "equipment": "",
+         "instructions": ""
+      },
+      {
+         "musclegroup_id": 8,
+         "name": "",
+         "gif": "",
+         "equipment": "",
+         "instructions": ""
+      },
+      {
+         "musclegroup_id": 8,
+         "name": "",
+         "gif": "",
+         "equipment": "",
+         "instructions": ""
+      },
+      {
+         "musclegroup_id": 8,
+         "name": "",
+         "gif": "",
+         "equipment": "",
+         "instructions": ""
+      },
+      {
+         "musclegroup_id": 8,
+         "name": "",
+         "gif": "",
+         "equipment": "",
+         "instructions": ""
+      },
+      {
+         "musclegroup_id": 8,
+         "name": "",
+         "gif": "",
+         "equipment": "",
+         "instructions": ""
+      },
+      {
+         "musclegroup_id": 8,
+         "name": "",
+         "gif": "",
+         "equipment": "",
+         "instructions": ""
+      },
+      {
+         "musclegroup_id": 8,
+         "name": "",
+         "gif": "",
+         "equipment": "",
+         "instructions": ""
+      },
+      {
+         "musclegroup_id": 8,
+         "name": "",
+         "gif": "",
+         "equipment": "",
+         "instructions": ""
+      },
+      {
+         "musclegroup_id": 8,
+         "name": "",
+         "gif": "",
+         "equipment": "",
+         "instructions": ""
+      }
 ]
