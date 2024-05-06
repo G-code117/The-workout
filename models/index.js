@@ -21,4 +21,4 @@ Workout.belongsTo(MuscleGroup
 
   );
 
-module.exports = { User, Blog };
+module.exports = { User, Exercise, MuscleGroup, Workout, WorkoutPlan };

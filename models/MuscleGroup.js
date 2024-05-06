@@ -16,7 +16,7 @@ MuscleGroup.init({
 },{
     sequelize,
     timestamps: false,
-    modelname: "muscleGroup",
+    modelname: 'musclegroup',
     freezeTableName: true,
 });
 
