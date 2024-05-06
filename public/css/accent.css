@@ -1,0 +1,37 @@
+/* Accent styles */
+
+/* Example accent color */
+.accent-color {
+    color: #ff6347; /* Coral color */
+}
+
+/* Example accent background color */
+.accent-bg {
+    background-color: #ff6347; /* Coral color */
+}
+
+/* Example accent border color */
+.accent-border {
+    border-color: #ff6347; /* Coral color */
+}
+
+/* Example accent hover effect */
+.accent-hover:hover {
+    background-color: #ff6347; /* Coral color */
+    color: #fff;
+}
+
+/* Example accent text shadow */
+.accent-text-shadow {
+    text-shadow: 1px 1px 2px #ff6347; /* Coral color */
+}
+
+/* Example accent box shadow */
+.accent-box-shadow {
+    box-shadow: 2px 2px 4px #ff6347; /* Coral color */
+}
+
+/* Example accent font style */
+.accent-font {
+    font-style: italic;
+}
