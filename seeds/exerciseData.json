@@ -1,0 +1,213 @@
+[
+    {
+        "musclegroup_id": 1,
+        "name": "Archer pull up",
+        "gif": "https://v2.exercisedb.io/image/IhSIJPWFEJU76Q",
+        "equipment": "Body Weight",
+        "instructions": "Start by hanging from a pull-up bar with an overhand grip, slightly wider than shoulder-width apart. Engage your core and pull your shoulder blades down and back. As you pull yourself up, bend one arm and bring your elbow towards your side, while keeping the other arm straight. Continue pulling until your chin is above the bar and your bent arm is fully flexed. Lower yourself back down with control, straightening the bent arm and repeating the movement on the other side. Alternate sides with each repetition."
+     },
+     {
+        "musclegroup_id": 1,
+        "name": "Bodyweight standing row",
+        "gif": "https://v2.exercisedb.io/image/lQ8dDwX3Wk9ZwF",
+        "equipment": "Body Weight",
+        "instructions": "Stand with your feet shoulder-width apart and knees slightly bent. Grasp a bar or handles with an overhand grip, palms facing down. Keep your back straight and core engaged. Pull the bar or handles towards your body, squeezing your shoulder blades together. Pause for a moment at the top of the movement. Slowly release and extend your arms back to the starting position. Repeat for the desired number of repetitions."
+     },
+     {
+        "musclegroup_id": 1,
+        "name": "Assisted standing pull-up",
+        "gif": "https://v2.exercisedb.io/image/5sokFlo35yBy59",
+        "equipment": "Leverage Machine",
+        "instructions": "Adjust the machine to your desired weight and height settings. Stand facing the machine with your feet shoulder-width apart. Grasp the handles with an overhand grip, slightly wider than shoulder-width apart. Engage your lats and biceps, and pull yourself up towards the handles. Pause for a moment at the top, squeezing your back muscles. Slowly lower yourself back down to the starting position. Repeat for the desired number of repetitions."
+     },
+     {
+        "musclegroup_id": 1,
+        "name": "Barbell pullover",
+        "gif": "https://v2.exercisedb.io/image/0GkxVdsyGxKevd",
+        "equipment": "Barbell",
+        "instructions": "Lie flat on a bench with your head at one end and your feet on the floor. Hold a barbell with a shoulder-width grip and extend your arms straight above your chest. Keeping your arms straight, lower the barbell behind your head in a controlled manner until you feel a stretch in your lats. Pause for a moment, then raise the barbell back to the starting position. Repeat for the desired number of repetitions."
+     },
+     {
+        "musclegroup_id": 1,
+        "name": "Barbell bent over row",
+        "gif": "https://v2.exercisedb.io/image/wcpU2A9p19DOzg",
+        "equipment": "Barbell",
+        "instructions": "Stand with your feet shoulder-width apart and knees slightly bent. Bend forward at the hips while keeping your back straight and chest up. Grasp the barbell with an overhand grip, hands slightly wider than shoulder-width apart. Pull the barbell towards your lower chest by retracting your shoulder blades and squeezing your back muscles. Pause for a moment at the top, then slowly lower the barbell back to the starting position. Repeat for the desired number of repetitions."
+     },
+     {
+        "musclegroup_id": 1,
+        "name": "Cable low seated row",
+        "gif": "https://v2.exercisedb.io/image/pW1uxy73qHMrai",
+        "equipment": "Cable",
+        "instructions": "Sit on the machine with your feet flat on the footrests and your knees slightly bent. Grasp the handles with an overhand grip, palms facing down. Keep your back straight and lean slightly forward, maintaining a slight bend in your elbows. Pull the handles towards your body, squeezing your shoulder blades together. Pause for a moment at the peak of the movement, then slowly release the handles back to the starting position. Repeat for the desired number of repetitions."
+     },
+     {
+        "musclegroup_id": 1,
+        "name": "Cable bar lateral pulldown",
+        "gif": "https://v2.exercisedb.io/image/gTgzA3W6RtCgtk",
+        "equipment": "Cable",
+        "instructions": "Adjust the cable pulley to a high position and attach a straight bar. Sit facing the cable machine with your feet flat on the ground and your knees slightly bent. Grasp the bar with an overhand grip, slightly wider than shoulder-width apart. Lean back slightly and keep your chest up, maintaining a slight arch in your lower back. Pull the bar down towards your chest, leading with your elbows and squeezing your shoulder blades together. Pause for a moment at the bottom of the movement, then slowly return the bar to the starting position. Repeat for the desired number of repetitions."
+     },
+     {
+        "musclegroup_id": 1,
+        "name": "Cable lat pulldown full range of motion",
+        "gif": "https://v2.exercisedb.io/image/RlTiXMMOm3dIoG",
+        "equipment": "Cable",
+        "instructions": "Sit on the lat pulldown machine with your knees positioned under the pads. Grasp the cable bar with an overhand grip, slightly wider than shoulder-width apart. Lean back slightly and keep your chest up, maintaining a slight arch in your lower back. Pull the bar down towards your upper chest, squeezing your shoulder blades together. Pause for a moment at the bottom of the movement, then slowly release the bar back to the starting position. Repeat for the desired number of repetitions."
+     },
+     {
+        "musclegroup_id": 1,
+        "name": "Cable cross-over lateral pulldown",
+        "gif": "https://v2.exercisedb.io/image/CyK2D-ABpWJ2kb",
+        "equipment": "Cable",
+        "instructions": "Attach a cable handle to each side of a cable machine at shoulder height. Stand in the middle of the machine with your feet shoulder-width apart. Grasp the handles with an overhand grip and step back to create tension in the cables. Lean forward slightly from the hips, keeping your back straight and your chest up. Pull the handles down and across your body, squeezing your shoulder blades together. Pause for a moment at the bottom of the movement, then slowly return to the starting position. Repeat for the desired number of repetitions."
+     },
+     {
+        "musclegroup_id": 1,
+        "name": "Cable pulldown",
+        "gif": "https://v2.exercisedb.io/image/wgBkhQGLlPRKiF",
+        "equipment": "Cable",
+        "instructions": "Adjust the cable pulldown machine so that the seat is at a comfortable height and the knee pad is secured. Sit on the seat with your back straight and your feet flat on the ground. Grasp the cable bar with an overhand grip, slightly wider than shoulder-width apart. Lean back slightly and engage your core. Pull the cable bar down towards your chest, squeezing your shoulder blades together. Pause for a moment at the bottom of the movement, then slowly release the bar back to the starting position. Repeat for the desired number of repetitions."
+     },
+    {
+        "musclegroup_id": 2,
+        "name": "Jump rope",
+        "gif": "https://v2.exercisedb.io/image/DWrGCLFB3Rx3Z0",
+        "equipment": "Rope",
+        "instructions": "Hold the handles of the jump rope with your hands, palms facing inward. Stand with your feet shoulder-width apart and knees slightly bent. Swing the rope over your head and jump over it as it comes towards your feet. Land softly on the balls of your feet and repeat the jump as the rope comes around again. Continue jumping for the desired duration or number of repetitions."
+     },
+     {
+        "musclegroup_id": 2,
+        "name": "Mountain climber",
+        "gif": "https://v2.exercisedb.io/image/H7mmd7lnGghwnp",
+        "equipment": "Body Weight",
+        "instructions": "Start in a high plank position with your hands directly under your shoulders and your body in a straight line. Engage your core and bring your right knee towards your chest, then quickly switch and bring your left knee towards your chest. Continue alternating legs in a running motion, keeping your hips low and your core engaged. Maintain a steady pace and breathe evenly throughout the exercise. Repeat for the desired number of repetitions."
+     },
+     {
+        "musclegroup_id": 2,
+        "name": "Run",
+        "gif": "https://v2.exercisedb.io/image/ZkB6u6zPkWsAeS",
+        "equipment": "Body Weight",
+        "instructions": "Start by standing upright with your feet hip-width apart. Engage your core and keep your upper body relaxed. Begin jogging in place, lifting your knees up towards your chest and landing softly on the balls of your feet. Maintain a steady pace and continue jogging for the desired duration or distance. Remember to breathe deeply and maintain good posture throughout the exercise."
+     },
+     {
+        "musclegroup_id": 2,
+        "name": "Walking high knees lunge",
+        "gif": "https://v2.exercisedb.io/image/fC5H5hEb3mMXqz",
+        "equipment": "Body Weight",
+        "instructions": "Stand with your feet hip-width apart. Lift your right knee up towards your chest as high as you can while balancing on your left leg. Step forward with your right foot and lower your body into a lunge position, bending both knees to a 90-degree angle. Push off with your right foot and bring your left knee up towards your chest. Step forward with your left foot and lower your body into a lunge position. Continue alternating legs and lunging forward, keeping your core engaged and maintaining a steady pace. Repeat for the desired number of repetitions."
+     },
+     {
+        "musclegroup_id": 2,
+        "name": "Burpee",
+        "gif": "https://v2.exercisedb.io/image/iSZnGVEWdUJpod",
+        "equipment": "Body Weight",
+        "instructions": "Start in a standing position with your feet shoulder-width apart.Lower your body into a squat position by bending your knees and placing your hands on the floor in front of you. Kick your feet back into a push-up position. Perform a push-up, keeping your body in a straight line. Jump your feet back into the squat position. Jump up explosively, reaching your arms overhead. Land softly and immediately lower back into a squat position to begin the next repetition."
+     },
+     {
+        "musclegroup_id": 2,
+        "name": "Skater hops",
+        "gif": "https://v2.exercisedb.io/image/qdoJNCJykzqydZ",
+        "equipment": "Body Weight",
+        "instructions": "Stand with your feet shoulder-width apart. Bend your knees slightly and jump to the right, landing on your right foot. As you land, swing your left leg behind your right leg and tap the ground with your left toes. Immediately jump to the left, landing on your left foot. As you land, swing your right leg behind your left leg and tap the ground with your right toes. Continue alternating sides, jumping and tapping the ground with each leg. Repeat for the desired number of repetitions."
+     },
+     {
+        "musclegroup_id": 2,
+        "name": "Semi squat jump",
+        "gif": "https://v2.exercisedb.io/image/GtmWT935DIOnz2",
+        "equipment": "Body Weight",
+        "instructions": "Stand with your feet shoulder-width apart. Bend your knees and lower your body into a squat position. Jump explosively, extending your hips and knees while swinging your arms for momentum. Land softly on the balls of your feet and immediately go into the next repetition. Repeat for the desired number of repetitions."
+     },
+     {
+        "musclegroup_id": 2,
+        "name": "Stationary bike run",
+        "gif": "https://v2.exercisedb.io/image/4cZQPduHyuLczu",
+        "equipment": "Stationary Bike",
+        "instructions": "Adjust the seat height and position to ensure proper alignment. Place your feet on the pedals and secure them with the straps if available. Start pedaling at a comfortable pace. Maintain a steady rhythm and increase the resistance as desired. Engage your core muscles to maintain stability and proper posture. Continue pedaling for the desired duration of your workout. Gradually decrease the resistance and slow down before coming to a complete stop. Stretch your legs and cool down after the workout."
+     },
+     {
+        "musclegroup_id": 2,
+        "name": "Walking on stairmaster",
+        "gif": "https://v2.exercisedb.io/image/XjFy8DpYyJB3sy",
+        "equipment": "Stairmaster Machine",
+        "instructions": "Adjust the stepmill machine to a comfortable level. Step onto the machine and place your hands on the handrails for support. Start walking by placing one foot on a step and then the other, alternating between legs. Maintain an upright posture and engage your core muscles. Continue walking for the desired duration or distance. Gradually increase the intensity or speed as you become more comfortable with the exercise. Remember to cool down and stretch after completing the exercise."
+     },
+     {
+        "musclegroup_id": 2,
+        "name": "Walking on elliptical",
+        "gif": "https://v2.exercisedb.io/image/6WuCMA14cBdjqm",
+        "equipment": "Elliptical Machine",
+        "instructions": "Adjust the resistance level and incline of the elliptical machine to your desired settings. Step onto the pedals of the machine and grip the handles lightly. Begin by pushing down with your feet and pulling the handles towards your body. Continue this motion, alternating between pushing and pulling, to simulate a walking or running motion. Maintain a steady pace and keep your core engaged throughout the exercise. Continue for the desired duration of your cardio workout. Gradually decrease the intensity and speed of the machine before stepping off."
+     },
+    {
+       "musclegroup_id": 3,
+       "name": "Archer push up",
+       "gif": "https://v2.exercisedb.io/image/Bi8xVYeWIyqo56",
+       "equipment": "Body Weight",
+       "instructions": "Start in a push-up position with your hands slightly wider than shoulder-width apart. Extend one arm straight out to the side, parallel to the ground. Lower your body by bending your elbows, keeping your back straight and core engaged. Repeat on the other side, extending the opposite arm out to the side. Continue alternating sides for the desired number of repetitions."
+    },
+    {
+        "musclegroup_id": 3,
+        "name": "Deep push up",
+        "gif": "https://v2.exercisedb.io/image/MXH9vWJqEtF88q",
+        "equipment": "Body Weight",
+        "instructions": "Start in a high plank position with your hands slightly wider than shoulder-width apart and your body in a straight line. Lower your chest towards the ground by bending your elbows, keeping them close to your body. Push through your palms to extend your arms and return to the starting position. Repeat for the desired number of repetitions."     
+     },
+     {
+        "musclegroup_id": 3,
+        "name": "Clap push up",
+        "gif": "https://v2.exercisedb.io/image/aBDfCoTue1aQ8a",
+        "equipment": "Body Weight",
+        "instructions": "Start in a high plank position with your hands slightly wider than shoulder-width apart. Lower your body towards the ground by bending your elbows, keeping your core engaged. Push through your palms explosively to propel your body off the ground. While in mid-air, clap your hands together before landing back in the starting position. Repeat for the desired number of repetitions."
+     },
+    {
+        "musclegroup_id": 3,
+        "name": "Barbell bench press",
+        "gif": "https://v2.exercisedb.io/image/L7vyesWgDz-LKH",
+        "equipment": "Barbell",
+        "instructions": "Lie flat on a bench with your feet flat on the ground and your back pressed against the bench. Grasp the barbell with an overhand grip slightly wider than shoulder-width apart. Lift the barbell off the rack and hold it directly above your chest with your arms fully extended. Lower the barbell slowly towards your chest, keeping your elbows tucked in. Pause for a moment when the barbell touches your chest. Push the barbell back up to the starting position by extending your arms. Repeat for the desired number of repetitions."
+     },
+     {
+        "musclegroup_id": 3,
+        "name": "Barbell incline bench press",
+        "gif": "https://v2.exercisedb.io/image/na1JRw8gvm-kvn",
+        "equipment": "Barbell",
+        "instructions": "Set up an incline bench at a 45-degree angle. Lie down on the bench with your feet flat on the ground. Grasp the barbell with an overhand grip, slightly wider than shoulder-width apart. Unrack the barbell and lower it slowly towards your chest, keeping your elbows at a 45-degree angle. Pause for a moment at the bottom, then push the barbell back up to the starting position. Repeat for the desired number of repetitions."
+        
+     },
+     {
+        "musclegroup_id": 3,
+        "name": "Barbell decline bench press",
+        "gif": "https://v2.exercisedb.io/image/ieojiob5VojQdg",
+        "equipment": "Barbell",
+        "instructions": "Lie on a decline bench with your feet secured and your head lower than your hips. Grasp the barbell with an overhand grip slightly wider than shoulder-width apart. Unrack the barbell and lower it slowly towards your chest, keeping your elbows tucked in. Pause for a moment at the bottom, then push the barbell back up to the starting position. Repeat for the desired number of repetitions."
+     },
+     {
+        "musclegroup_id": 3,
+        "name": "Cable standing fly",
+        "gif": "https://v2.exercisedb.io/image/BLEySU-bVjuLsr",
+        "equipment": "Cable",
+        "instructions": "Attach the handles to the cables at chest height. Stand with your feet shoulder-width apart, facing away from the cable machine. Grasp the handles with an overhand grip, palms facing forward. Step forward slightly to create tension in the cables. Keep your core engaged and your back straight throughout the exercise. With a slight bend in your elbows, slowly bring your arms forward and together in front of your chest. Squeeze your chest muscles at the peak of the movement. Slowly reverse the movement, returning your arms to the starting position. Repeat for the desired number of repetitions."
+     },
+     {
+        "musclegroup_id": 3,
+        "name": "Cable cross-over variation",
+        "gif": "https://v2.exercisedb.io/image/BOqTOA25NkSMaP",
+        "equipment": "Cable",
+        "instructions": "Adjust the cable pulleys to chest height. Stand in the center of the cable machine with one foot in front of the other. Grasp the handles with your palms facing down and your arms extended out to the sides. Take a step forward, keeping your arms slightly bent. With a slight bend in your elbows, bring your hands together in front of your chest. Pause for a moment, then slowly return your arms back to the starting position. Repeat for the desired number of repetitions."   
+     }, 
+     {
+        "musclegroup_id": 3,
+        "name": "Dumbbell bench press",
+        "gif": "https://v2.exercisedb.io/image/qd822ykLhhuQPV",
+        "equipment": "Dumbbell",
+        "instructions": "Lie flat on a bench with your feet flat on the ground and your back pressed against the bench. Hold a dumbbell in each hand, with your palms facing forward and your arms extended above your chest. Lower the dumbbells slowly to the sides of your chest, keeping your elbows at a 90-degree angle. Pause for a moment, then push the dumbbells back up to the starting position, fully extending your arms. Repeat for the desired number of repetitions."
+     },
+     {
+        "musclegroup_id": 3,
+        "name": "Dumbbell fly",
+        "gif": "https://v2.exercisedb.io/image/6M5F01ql5vq8QH",
+        "equipment": "Dumbbell",
+        "instructions": "Lie flat on a bench with a dumbbell in each hand, palms facing each other. Extend your arms straight up over your chest, with a slight bend in your elbows. Keeping a slight bend in your elbows, lower your arms out to the sides in a wide arc until you feel a stretch in your chest. Pause for a moment, then reverse the movement and bring the dumbbells back up to the starting position. Repeat for the desired number of repetitions."
+     }  
+]
