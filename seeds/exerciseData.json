@@ -1,0 +1,140 @@
+[
+    {
+       "musclegroup_id": 2,
+       "name": "Archer push up",
+       "gif": "https://v2.exercisedb.io/image/Bi8xVYeWIyqo56",
+       "equipment": "Body Weight",
+       "instructions": [
+        {"1": "Start in a push-up position with your hands slightly wider than shoulder-width apart."},
+        {"2": "Extend one arm straight out to the side, parallel to the ground."},
+        {"3": "Lower your body by bending your elbows, keeping your back straight and core engaged."},
+        {"4": "Repeat on the other side, extending the opposite arm out to the side."},
+        {"5": "Continue alternating sides for the desired number of repetitions."}
+       ]
+    },
+    {
+        "musclegroup_id": 2,
+        "name": "Deep push up",
+        "gif": "https://v2.exercisedb.io/image/MXH9vWJqEtF88q",
+        "equipment": "Body Weight",
+        "instructions": [
+         {"1": "Start in a high plank position with your hands slightly wider than shoulder-width apart and your body in a straight line."},
+         {"2": "Lower your chest towards the ground by bending your elbows, keeping them close to your body."},
+         {"3": "Push through your palms to extend your arms and return to the starting position."},
+         {"4": "Repeat for the desired number of repetitions."}
+        ]
+     },
+     {
+        "musclegroup_id": 2,
+        "name": "Clap push up",
+        "gif": "https://v2.exercisedb.io/image/aBDfCoTue1aQ8a",
+        "equipment": "Body Weight",
+        "instructions": [
+         {"1": "Start in a high plank position with your hands slightly wider than shoulder-width apart."},
+         {"2": "Lower your body towards the ground by bending your elbows, keeping your core engaged."},
+         {"3": "Push through your palms explosively to propel your body off the ground."},
+         {"4": "While in mid-air, clap your hands together before landing back in the starting position."},
+         {"5": "Repeat for the desired number of repetitions."}
+        ]
+     },
+    {
+        "musclegroup_id": 2,
+        "name": "Barbell bench press",
+        "gif": "https://v2.exercisedb.io/image/L7vyesWgDz-LKH",
+        "equipment": "Barbell",
+        "instructions": [
+         {"1": "Lie flat on a bench with your feet flat on the ground and your back pressed against the bench."},
+         {"2": "Grasp the barbell with an overhand grip slightly wider than shoulder-width apart."},
+         {"3": "Lift the barbell off the rack and hold it directly above your chest with your arms fully extended."},
+         {"4": "Lower the barbell slowly towards your chest, keeping your elbows tucked in."},
+         {"5": "Pause for a moment when the barbell touches your chest."},
+         {"6": "Push the barbell back up to the starting position by extending your arms."},
+         {"7": "Repeat for the desired number of repetitions."}
+        ]
+     },
+     {
+        "musclegroup_id": 2,
+        "name": "Barbell incline bench press",
+        "gif": "https://v2.exercisedb.io/image/na1JRw8gvm-kvn",
+        "equipment": "Barbell",
+        "instructions": [
+         {"1": "Set up an incline bench at a 45-degree angle."},
+         {"2": "Lie down on the bench with your feet flat on the ground."},
+         {"3": "Grasp the barbell with an overhand grip, slightly wider than shoulder-width apart."},
+         {"4": "Unrack the barbell and lower it slowly towards your chest, keeping your elbows at a 45-degree angle."},
+         {"5": "Pause for a moment at the bottom, then push the barbell back up to the starting position."},
+         {"6": "Repeat for the desired number of repetitions."}
+        ]
+     },
+     {
+        "musclegroup_id": 2,
+        "name": "Barbell decline bench press",
+        "gif": "https://v2.exercisedb.io/image/ieojiob5VojQdg",
+        "equipment": "Barbell",
+        "instructions": [
+         {"1": "Lie on a decline bench with your feet secured and your head lower than your hips."},
+         {"2": "Grasp the barbell with an overhand grip slightly wider than shoulder-width apart."},
+         {"3": "Unrack the barbell and lower it slowly towards your chest, keeping your elbows tucked in."},
+         {"4": "Pause for a moment at the bottom, then push the barbell back up to the starting position."},
+         {"5": "Repeat for the desired number of repetitions."}
+        ]
+     },
+     {
+        "musclegroup_id": 2,
+        "name": "Cable standing fly",
+        "gif": "https://v2.exercisedb.io/image/BLEySU-bVjuLsr",
+        "equipment": "Cable",
+        "instructions": [
+         {"1": "Attach the handles to the cables at chest height."},
+         {"2": "Stand with your feet shoulder-width apart, facing away from the cable machine."},
+         {"3": "Grasp the handles with an overhand grip, palms facing forward."},
+         {"4": "Step forward slightly to create tension in the cables."},
+         {"5": "Keep your core engaged and your back straight throughout the exercise."},
+         {"6": "With a slight bend in your elbows, slowly bring your arms forward and together in front of your chest."},
+         {"7": "Squeeze your chest muscles at the peak of the movement."},
+         {"8": "Slowly reverse the movement, returning your arms to the starting position."},
+         {"9": "Repeat for the desired number of repetitions."}
+        ]
+     },
+     {
+        "musclegroup_id": 2,
+        "name": "Cable cross-over variation",
+        "gif": "https://v2.exercisedb.io/image/BOqTOA25NkSMaP",
+        "equipment": "Cable",
+        "instructions": [
+         {"1": "Adjust the cable pulleys to chest height."},
+         {"2": "Stand in the center of the cable machine with one foot in front of the other."},
+         {"3": "Grasp the handles with your palms facing down and your arms extended out to the sides."},
+         {"4": "Take a step forward, keeping your arms slightly bent."},
+         {"5": "With a slight bend in your elbows, bring your hands together in front of your chest."},
+         {"6": "Pause for a moment, then slowly return your arms back to the starting position."},
+         {"7": "Repeat for the desired number of repetitions."}
+        ]
+     }, 
+     {
+        "musclegroup_id": 2,
+        "name": "Dumbbell bench press",
+        "gif": "https://v2.exercisedb.io/image/qd822ykLhhuQPV",
+        "equipment": "Dumbbell",
+        "instructions": [
+         {"1": "Lie flat on a bench with your feet flat on the ground and your back pressed against the bench."},
+         {"2": "Hold a dumbbell in each hand, with your palms facing forward and your arms extended above your chest."},
+         {"3": "Lower the dumbbells slowly to the sides of your chest, keeping your elbows at a 90-degree angle."},
+         {"4": "Pause for a moment, then push the dumbbells back up to the starting position, fully extending your arms."},
+         {"5": "Repeat for the desired number of repetitions."}
+        ]
+     },
+     {
+        "musclegroup_id": 2,
+        "name": "Dumbbell fly",
+        "gif": "https://v2.exercisedb.io/image/6M5F01ql5vq8QH",
+        "equipment": "Dumbbell",
+        "instructions": [
+         {"1": "Lie flat on a bench with a dumbbell in each hand, palms facing each other."},
+         {"2": "Extend your arms straight up over your chest, with a slight bend in your elbows."},
+         {"3": "Keeping a slight bend in your elbows, lower your arms out to the sides in a wide arc until you feel a stretch in your chest."},
+         {"4": "Pause for a moment, then reverse the movement and bring the dumbbells back up to the starting position."},
+         {"5": "Repeat for the desired number of repetitions."}
+        ]
+     }  
+]
