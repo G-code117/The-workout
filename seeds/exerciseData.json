@@ -1,73 +1,73 @@
 [
     {
         "musclegroup_id": 1,
-        "name": "",
-        "gif": "",
-        "equipment": "",
-        "instructions": ""
+        "name": "Archer pull up",
+        "gif": "https://v2.exercisedb.io/image/IhSIJPWFEJU76Q",
+        "equipment": "Body Weight",
+        "instructions": "Start by hanging from a pull-up bar with an overhand grip, slightly wider than shoulder-width apart. Engage your core and pull your shoulder blades down and back. As you pull yourself up, bend one arm and bring your elbow towards your side, while keeping the other arm straight. Continue pulling until your chin is above the bar and your bent arm is fully flexed. Lower yourself back down with control, straightening the bent arm and repeating the movement on the other side. Alternate sides with each repetition."
      },
      {
         "musclegroup_id": 1,
-        "name": "",
-        "gif": "",
-        "equipment": "",
-        "instructions": ""
+        "name": "Bodyweight standing row",
+        "gif": "https://v2.exercisedb.io/image/lQ8dDwX3Wk9ZwF",
+        "equipment": "Body Weight",
+        "instructions": "Stand with your feet shoulder-width apart and knees slightly bent. Grasp a bar or handles with an overhand grip, palms facing down. Keep your back straight and core engaged. Pull the bar or handles towards your body, squeezing your shoulder blades together. Pause for a moment at the top of the movement. Slowly release and extend your arms back to the starting position. Repeat for the desired number of repetitions."
      },
      {
         "musclegroup_id": 1,
-        "name": "",
-        "gif": "",
-        "equipment": "",
-        "instructions": ""
+        "name": "Assisted standing pull-up",
+        "gif": "https://v2.exercisedb.io/image/5sokFlo35yBy59",
+        "equipment": "Leverage Machine",
+        "instructions": "Adjust the machine to your desired weight and height settings. Stand facing the machine with your feet shoulder-width apart. Grasp the handles with an overhand grip, slightly wider than shoulder-width apart. Engage your lats and biceps, and pull yourself up towards the handles. Pause for a moment at the top, squeezing your back muscles. Slowly lower yourself back down to the starting position. Repeat for the desired number of repetitions."
      },
      {
         "musclegroup_id": 1,
-        "name": "",
-        "gif": "",
-        "equipment": "",
-        "instructions": ""
+        "name": "Barbell pullover",
+        "gif": "https://v2.exercisedb.io/image/0GkxVdsyGxKevd",
+        "equipment": "Barbell",
+        "instructions": "Lie flat on a bench with your head at one end and your feet on the floor. Hold a barbell with a shoulder-width grip and extend your arms straight above your chest. Keeping your arms straight, lower the barbell behind your head in a controlled manner until you feel a stretch in your lats. Pause for a moment, then raise the barbell back to the starting position. Repeat for the desired number of repetitions."
      },
      {
         "musclegroup_id": 1,
-        "name": "",
-        "gif": "",
-        "equipment": "",
-        "instructions": ""
+        "name": "Barbell bent over row",
+        "gif": "https://v2.exercisedb.io/image/wcpU2A9p19DOzg",
+        "equipment": "Barbell",
+        "instructions": "Stand with your feet shoulder-width apart and knees slightly bent. Bend forward at the hips while keeping your back straight and chest up. Grasp the barbell with an overhand grip, hands slightly wider than shoulder-width apart. Pull the barbell towards your lower chest by retracting your shoulder blades and squeezing your back muscles. Pause for a moment at the top, then slowly lower the barbell back to the starting position. Repeat for the desired number of repetitions."
      },
      {
         "musclegroup_id": 1,
-        "name": "",
-        "gif": "",
-        "equipment": "",
-        "instructions": ""
+        "name": "Cable low seated row",
+        "gif": "https://v2.exercisedb.io/image/pW1uxy73qHMrai",
+        "equipment": "Cable",
+        "instructions": "Sit on the machine with your feet flat on the footrests and your knees slightly bent. Grasp the handles with an overhand grip, palms facing down. Keep your back straight and lean slightly forward, maintaining a slight bend in your elbows. Pull the handles towards your body, squeezing your shoulder blades together. Pause for a moment at the peak of the movement, then slowly release the handles back to the starting position. Repeat for the desired number of repetitions."
      },
      {
         "musclegroup_id": 1,
-        "name": "",
-        "gif": "",
-        "equipment": "",
-        "instructions": ""
+        "name": "Cable bar lateral pulldown",
+        "gif": "https://v2.exercisedb.io/image/gTgzA3W6RtCgtk",
+        "equipment": "Cable",
+        "instructions": "Adjust the cable pulley to a high position and attach a straight bar. Sit facing the cable machine with your feet flat on the ground and your knees slightly bent. Grasp the bar with an overhand grip, slightly wider than shoulder-width apart. Lean back slightly and keep your chest up, maintaining a slight arch in your lower back. Pull the bar down towards your chest, leading with your elbows and squeezing your shoulder blades together. Pause for a moment at the bottom of the movement, then slowly return the bar to the starting position. Repeat for the desired number of repetitions."
      },
      {
         "musclegroup_id": 1,
-        "name": "",
-        "gif": "",
-        "equipment": "",
-        "instructions": ""
+        "name": "Cable lat pulldown full range of motion",
+        "gif": "https://v2.exercisedb.io/image/RlTiXMMOm3dIoG",
+        "equipment": "Cable",
+        "instructions": "Sit on the lat pulldown machine with your knees positioned under the pads. Grasp the cable bar with an overhand grip, slightly wider than shoulder-width apart. Lean back slightly and keep your chest up, maintaining a slight arch in your lower back. Pull the bar down towards your upper chest, squeezing your shoulder blades together. Pause for a moment at the bottom of the movement, then slowly release the bar back to the starting position. Repeat for the desired number of repetitions."
      },
      {
         "musclegroup_id": 1,
-        "name": "",
-        "gif": "",
-        "equipment": "",
-        "instructions": ""
+        "name": "Cable cross-over lateral pulldown",
+        "gif": "https://v2.exercisedb.io/image/CyK2D-ABpWJ2kb",
+        "equipment": "Cable",
+        "instructions": "Attach a cable handle to each side of a cable machine at shoulder height. Stand in the middle of the machine with your feet shoulder-width apart. Grasp the handles with an overhand grip and step back to create tension in the cables. Lean forward slightly from the hips, keeping your back straight and your chest up. Pull the handles down and across your body, squeezing your shoulder blades together. Pause for a moment at the bottom of the movement, then slowly return to the starting position. Repeat for the desired number of repetitions."
      },
      {
         "musclegroup_id": 1,
-        "name": "",
-        "gif": "",
-        "equipment": "",
-        "instructions": ""
+        "name": "Cable pulldown",
+        "gif": "https://v2.exercisedb.io/image/wgBkhQGLlPRKiF",
+        "equipment": "Cable",
+        "instructions": "Adjust the cable pulldown machine so that the seat is at a comfortable height and the knee pad is secured. Sit on the seat with your back straight and your feet flat on the ground. Grasp the cable bar with an overhand grip, slightly wider than shoulder-width apart. Lean back slightly and engage your core. Pull the cable bar down towards your chest, squeezing your shoulder blades together. Pause for a moment at the bottom of the movement, then slowly release the bar back to the starting position. Repeat for the desired number of repetitions."
      },
     {
         "musclegroup_id": 2,
