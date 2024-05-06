@@ -69,6 +69,7 @@
         "equipment": "Cable",
         "instructions": "Adjust the cable pulldown machine so that the seat is at a comfortable height and the knee pad is secured. Sit on the seat with your back straight and your feet flat on the ground. Grasp the cable bar with an overhand grip, slightly wider than shoulder-width apart. Lean back slightly and engage your core. Pull the cable bar down towards your chest, squeezing your shoulder blades together. Pause for a moment at the bottom of the movement, then slowly release the bar back to the starting position. Repeat for the desired number of repetitions."
      },
+
     {
         "musclegroup_id": 2,
         "name": "Jump rope",
@@ -139,6 +140,7 @@
         "equipment": "Elliptical Machine",
         "instructions": "Adjust the resistance level and incline of the elliptical machine to your desired settings. Step onto the pedals of the machine and grip the handles lightly. Begin by pushing down with your feet and pulling the handles towards your body. Continue this motion, alternating between pushing and pulling, to simulate a walking or running motion. Maintain a steady pace and keep your core engaged throughout the exercise. Continue for the desired duration of your cardio workout. Gradually decrease the intensity and speed of the machine before stepping off."
      },
+
     {
        "musclegroup_id": 3,
        "name": "Archer push up",
@@ -209,5 +211,126 @@
         "gif": "https://v2.exercisedb.io/image/6M5F01ql5vq8QH",
         "equipment": "Dumbbell",
         "instructions": "Lie flat on a bench with a dumbbell in each hand, palms facing each other. Extend your arms straight up over your chest, with a slight bend in your elbows. Keeping a slight bend in your elbows, lower your arms out to the sides in a wide arc until you feel a stretch in your chest. Pause for a moment, then reverse the movement and bring the dumbbells back up to the starting position. Repeat for the desired number of repetitions."
-     }  
+     },
+
+     {
+        "musclegroup_id": 4,
+        "name": "Finger curls",
+        "gif": "https://v2.exercisedb.io/image/nbUG7z8cDMLLMB",
+        "equipment": "Barbell",
+        "instructions": "Sit on a bench with your feet flat on the ground and hold a barbell with an underhand grip, palms facing up. Rest your forearms on your thighs, allowing your wrists to hang off the edge. Slowly curl your fingers towards your palms, squeezing the barbell tightly. Hold the contraction for a moment, then slowly release your fingers back to the starting position. Repeat for the desired number of repetitions."
+     },
+     {
+        "musclegroup_id": 4,
+        "name": "Smith standing back wrist curl",
+        "gif": "https://v2.exercisedb.io/image/IOvuLlktS65qeX",
+        "equipment": "Smith Machine",
+        "instructions": "Stand facing the smith machine with your feet shoulder-width apart. Grasp the barbell with an overhand grip, hands shoulder-width apart. Keep your back straight and your elbows close to your body. Slowly curl your wrists upwards, bringing the barbell towards your body. Pause for a moment at the top, then slowly lower the barbell back down to the starting position. Repeat for the desired number of repetitions."
+     },
+     {
+        "musclegroup_id": 4,
+        "name": "Dumbbell one arm wrist curl",
+        "gif": "https://v2.exercisedb.io/image/hwm9OExvVzMfMs",
+        "equipment": "Dumbbell",
+        "instructions": "Sit on a bench or chair with your feet flat on the ground. Hold a dumbbell in one hand with an underhand grip, resting your forearm on your thigh. Allow your wrist to extend, letting the dumbbell roll down towards your fingers. Slowly curl your wrist back up, bringing the dumbbell towards your forearm. Repeat for the desired number of repetitions, then switch to the other hand."
+     },
+     {
+        "musclegroup_id": 4,
+        "name": "Dumbbell reverse wrist curl",
+        "gif": "https://v2.exercisedb.io/image/JNuw0EVPdgOjx9",
+        "equipment": "Dumbbell",
+        "instructions": "Sit on a bench or chair with your feet flat on the ground. Hold a dumbbell in each hand with an overhand grip, palms facing down. Rest your forearms on your thighs, allowing your wrists to hang off the edge. Slowly curl your wrists upward, bringing the dumbbells towards your body. Pause for a moment at the top, then slowly lower the dumbbells back down to the starting position. Repeat for the desired number of repetitions."
+     },
+     {
+        "musclegroup_id": 4,
+        "name": "Kettlebell alternating hang clean",
+        "gif": "https://v2.exercisedb.io/image/lsMDmDwoj9MGU9",
+        "equipment": "Kettlebell",
+        "instructions": "Stand with your feet shoulder-width apart, holding a kettlebell in each hand with an overhand grip. Bend your knees slightly and hinge forward at the hips, keeping your back straight and chest up. Allow the kettlebells to hang in front of your body with your arms fully extended. In one fluid motion, explosively extend your hips, shrug your shoulders, and pull the kettlebells up towards your shoulders. As the kettlebells reach shoulder height, rotate your wrists and catch the kettlebells in the rack position, with your palms facing inward and the kettlebells resting on the outside of your forearms.Lower the kettlebells back down to the starting position and repeat the movement with the opposite arm. Continue alternating arms for the desired number of repetitions."
+     },
+
+     {
+        "musclegroup_id": 5,
+        "name": "Barbell seated calf raise",
+        "gif": "https://v2.exercisedb.io/image/KZHT7GrKau9vca",
+        "equipment": "Barbell",
+        "instructions": "Sit on a bench with your feet flat on the floor and a barbell resting on your thighs. Place the balls of your feet on a raised platform, such as a block or step. Position the barbell across your thighs and hold it securely with your hands. Keeping your back straight and your core engaged, lift your heels off the ground by extending your ankles. Pause for a moment at the top, then slowly lower your heels back down to the starting position. Repeat for the desired number of repetitions."
+     },
+     {
+        "musclegroup_id": 5,
+        "name": "Barbell standing calf raise",
+        "gif": "https://v2.exercisedb.io/image/TmGhuLc6v1ICnl",
+        "equipment": "Barbell",
+        "instructions": "Stand with your feet shoulder-width apart and place a barbell across your upper back. Raise your heels off the ground as high as possible, using only your toes. Pause for a moment at the top, then slowly lower your heels back down to the starting position. Repeat for the desired number of repetitions."
+     },
+     {
+        "musclegroup_id": 5,
+        "name": "Bodyweight standing calf raise",
+        "gif": "https://v2.exercisedb.io/image/s2SjBxKOq4hCOe",
+        "equipment": "Body Weight",
+        "instructions": "Stand with your feet shoulder-width apart, toes pointing forward. Place your hands on a wall or stable surface for balance. Slowly raise your heels off the ground, lifting your body weight onto the balls of your feet. Pause for a moment at the top, then slowly lower your heels back down to the starting position. Repeat for the desired number of repetitions."
+     },
+     {
+        "musclegroup_id": 5,
+        "name": "Calf push stretch with hands against wall",
+        "gif": "https://v2.exercisedb.io/image/fNBprTJ7Bqbnph",
+        "equipment": "Body Weight",
+        "instructions": "Stand facing a wall with your feet hip-width apart. Place your hands against the wall at shoulder height. Step back with one foot, keeping your heel on the ground and your leg straight. Bend your front knee slightly and lean forward, feeling a stretch in your calf. Hold the stretch for 20-30 seconds. Switch legs and repeat the stretch."
+     },
+     {
+        "musclegroup_id": 5,
+        "name": "Donkey calf raise",
+        "gif": "https://v2.exercisedb.io/image/dpaAvE7W3WlB4i",
+        "equipment": "Body Weight",
+        "instructions": "Stand with your toes on an elevated surface, such as a step or block. Place your hands on a stable support, such as a wall or railing, for balance. Raise your heels as high as possible, lifting your body weight onto the balls of your feet. Pause for a moment at the top, then slowly lower your heels back down to the starting position. Repeat for the desired number of repetitions."
+     },
+     {
+        "musclegroup_id": 5,
+        "name": "Dumbbell seated calf raise",
+        "gif": "https://v2.exercisedb.io/image/BfiA8Fb2j8kKVr",
+        "equipment": "Dumbbell",
+        "instructions": "Sit on a bench or chair with your feet flat on the ground and a dumbbell resting on your thighs. Place the balls of your feet on a raised surface such as a step or block, with your heels hanging off the edge. Hold onto the dumbbell for stability. Raise your heels as high as possible, lifting your body weight onto the balls of your feet. Pause for a moment at the top, then slowly lower your heels back down to the starting position. Repeat for the desired number of repetitions."
+     },
+     {
+        "musclegroup_id": 5,
+        "name": "Dumbbell standing calf raise",
+        "gif": "https://v2.exercisedb.io/image/vxPyOBMfjuOxcC",
+        "equipment": "Dumbbell",
+        "instructions": "Stand with your feet shoulder-width apart, holding a dumbbell in each hand. Raise your heels off the ground as high as possible, using your calves. Pause for a moment at the top, then slowly lower your heels back down to the starting position. Repeat for the desired number of repetitions."
+     },
+     {
+        "musclegroup_id": 5,
+        "name": "Hack calf raise",
+        "gif": "https://v2.exercisedb.io/image/zbmK3FatA4casv",
+        "equipment": "Sled Machine",
+        "instructions": "Adjust the sled machine to a comfortable weight. Stand on the sled machine with your toes on the platform and your heels hanging off. Hold onto the handles for stability. Raise your heels as high as possible by pushing through the balls of your feet. Pause for a moment at the top, then slowly lower your heels back down to the starting position. Repeat for the desired number of repetitions."
+     },
+     {
+        "musclegroup_id": 5,
+        "name": "Smith reverse calf raises",
+        "gif": "https://v2.exercisedb.io/image/jfd4-VTIcQWBjz",
+        "equipment": "Smith Machine",
+        "instructions": "Adjust the smith machine bar to a height just below your shoulders. Stand facing the bar with your feet hip-width apart and toes pointing forward. Place the balls of your feet on the edge of a step or platform, with your heels hanging off. Hold onto the bar for support, keeping your back straight and core engaged. Raise your heels as high as possible, lifting your body weight onto the balls of your feet. Pause for a moment at the top, then slowly lower your heels back down to the starting position. Repeat for the desired number of repetitions."
+     },
+     {
+        "musclegroup_id": 5,
+        "name": "Smith toe raise",
+        "gif": "https://v2.exercisedb.io/image/NAJ42ENMhdGaKm",
+        "equipment": "Smith Machine",
+        "instructions": "Adjust the smith machine bar to a height that allows you to comfortably stand with your feet flat on the ground. Position yourself under the bar with your shoulders directly below it and your feet shoulder-width apart. Place the balls of your feet on a raised platform or weight plates, with your heels hanging off the edge. Grasp the bar with an overhand grip, slightly wider than shoulder-width apart. Engage your core and keep your back straight throughout the exercise. Slowly raise your heels as high as possible, lifting your body weight onto the balls of your feet. Pause for a moment at the top, then slowly lower your heels back down to the starting position. Repeat for the desired number of repetitions."
+     },
+     {
+        "musclegroup_id": 6,
+        "name": "",
+        "gif": "",
+        "equipment": "",
+        "instructions": ""
+     },
+     {
+        "musclegroup_id": 6,
+        "name": "",
+        "gif": "",
+        "equipment": "",
+        "instructions": ""
+     }
 ]
