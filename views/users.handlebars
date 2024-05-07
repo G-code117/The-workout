@@ -1,0 +1,56 @@
+<div class="row">
+  <div class="col-auto">
+    <h2>Welcome, {{name}}!</h2>
+  </div>
+</div>
+
+<div class="row mt-4">
+  <div class="col-md-6">
+    <h3>Create a New Workout:</h3>
+
+    <form class="form musclegroup">
+      <div class="musclegroup">
+        <label for="workout">what to add:</label>
+        <input class="workoutType" type="text" id="muscle-name" name="muscle-name" />
+      </div>
+      <div class="musclegroup">
+        <label for="name">exercise name:</label>
+        <input class="workoutType" type="text" id="name" name="name" />
+      </div>
+      <div class="musclegroup">
+        <label for="gif">gif:</label>
+        <input class="musclegroup" id="gif" name="gif"></input>
+      </div>
+      <div class="musclegroup">
+        <label for="equipment">what equipment you need:</label>
+        <input class="musclegroup" id="equipment" name="equipment"></input>
+      </div>
+      <div class="musclegroup">
+        <label for="instructions">how to do it:</label>
+        <input class="musclegroup" id="instructions" name="instructions"></input>
+      </div>
+      <div class="muscelgroup">
+        <button type="submit" class="btn btn-primary">Create</button>
+      </div>
+    </form>
+  </div>
+
+  {{#if exercise.length}}
+  <div class="col-md-6 exercise-list">
+    <h3>Current Projects:</h3>
+
+    {{#each exercise as |exercise|}}
+    <div class="row mb-2">
+      <div class="col-md-8">
+        <h4><a href="/exercise/{{exercise.id}}">{{exercise.name}}</a></h4>
+      </div>
+      <div class="col-md-4">
+        <button class="btn btn-sm btn-danger" data-id="{{exercise.id}}">DELETE</button>
+      </div>
+    </div>
+    {{/each}}
+  </div>
+  {{/if}}
+</div>
+
+<script src="./js/logic.js"></script>
