@@ -37,7 +37,7 @@ Exercise.init({
 },{
     sequelize,
     timestamps: false,
-    modelname: "muscleGroup",
+    modelname: "exercise",
     freezeTableName: true,
 });
 
