@@ -13,12 +13,12 @@ User.hasMany(WorkoutPlan, {
     foreignKey: 'user_id',
   });
 
-Workout.belongsTo(MuscleGroup
+Workout.belongsTo(MuscleGroup, {
+
+});
+
+  MuscleGroup.hasMany(Exercise, {
     
-)
-
-  MuscleGroup.hasMany(Exercise
-
-  );
+  });
 
 module.exports = { User, Exercise, MuscleGroup, Workout, WorkoutPlan };
