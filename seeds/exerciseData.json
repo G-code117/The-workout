@@ -475,52 +475,52 @@
       },
       {
          "musclegroup_id": 9,
-         "name": "All fours squad stretch",
-         "gif": "https://v2.exercisedb.io/image/vKAWsPzehvwbAa",
-         "equipment": "Body Weight",
-         "instructions": "Start on all fours with your hands directly under your shoulders and your knees directly under your hips. Extend one leg straight back, keeping your knee bent and your foot flexed. Slowly lower your hips towards the ground, feeling a stretch in your quads. Hold this position for 20-30 seconds. Switch legs and repeat the stretch on the other side."
+         "name": "Dumbell Sumo Pull Through",
+         "gif": "https://v2.exercisedb.io/image/qSMVjy1sTADpd0",
+         "equipment": "Dumbbell",
+         "instructions": "Stand with your feet wider than shoulder-width apart, toes pointed outwards. Hold a dumbbell with both hands in front of your body, arms extended. Bend your knees and lower your hips down into a squat position, keeping your back straight. Lower the dumbbell down between your legs, keeping your arms straight. Drive through your heels and extend your hips forward, pulling the dumbbell up and in front of your body. Squeeze your glutes at the top of the movement, then lower the dumbbell back down between your legs. Repeat for the desired number of repetitions."
       },
       {
          "musclegroup_id": 9,
-         "name": "Arms apart circular toe touch",
-         "gif": "https://v2.exercisedb.io/image/wKh-S8vA0Tf7WM",
-         "equipment": "Body Weight",
-         "instructions": "Stand with your feet shoulder-width apart and arms extended to the sides. Keeping your legs straight, bend forward at the waist and reach down towards your toes with your right hand. As you reach down, simultaneously lift your left leg straight up behind you, maintaining balance. Return to the starting position and repeat the movement with your left hand reaching towards your toes and your right leg lifting up behind you. Continue alternating sides for the desired number of repetitions."
+         "name": "Dumbbell stiff leg deadlift",
+         "gif": "https://v2.exercisedb.io/image/8FP8RPi9m1fZDz",
+         "equipment": "Dumbbell",
+         "instructions": "Stand with your feet shoulder-width apart, holding a dumbbell in each hand with an overhand grip. Keeping your back straight and your core engaged, hinge at the hips and lower the dumbbells towards the ground, allowing a slight bend in your knees. Lower the dumbbells until you feel a stretch in your hamstrings, then squeeze your glutes and push through your heels to return to the starting position. Repeat for the desired number of repetitions."
       },
       {
          "musclegroup_id": 9,
-         "name": "Assisted lying glutes stretch",
-         "gif": "https://v2.exercisedb.io/image/iAB6cMlGvS298d",
+         "name": "Dumbbell squat",
+         "gif": "https://v2.exercisedb.io/image/oxB2Do1Zy47Jw4",
+         "equipment": "Dumbbell",
+         "instructions": "Stand with your feet shoulder-width apart, holding a dumbbell in each hand at your sides. Keeping your chest up and core engaged, lower your body down by bending at the knees and hips, as if sitting back into a chair. Continue lowering until your thighs are parallel to the ground, or as low as you can comfortably go. Pause for a moment at the bottom, then push through your heels to return to the starting position. Repeat for the desired number of repetitions."
+      },
+      {
+         "musclegroup_id": 9,
+         "name": "Dumbbell lunge",
+         "gif": "https://v2.exercisedb.io/image/sDVj9OgkQryRz8",
+         "equipment": "Dumbbell",
+         "instructions": "Stand with your feet shoulder-width apart, holding a dumbbell in each hand. Take a step forward with your right foot, lowering your body into a lunge position. Keep your back straight and your chest up as you lower your body. Push through your right heel to return to the starting position. Repeat with your left leg. Alternate legs for the desired number of repetitions."
+      },
+      {
+         "musclegroup_id": 9,
+         "name": "Curtsey squat",
+         "gif": "https://v2.exercisedb.io/image/ASHghXHbWYavdm",
          "equipment": "Assisted",
-         "instructions": "Lie on your back with your legs extended. Bend your right knee and place your right ankle on your left thigh, just above the knee. Grasp your left thigh with both hands and gently pull it towards your chest. Hold the stretch for 20-30 seconds. Release and repeat on the other side."
+         "instructions": "Stand with your feet shoulder-width apart. Take a step diagonally behind and across your body with your right foot, crossing it behind your left leg. Bend both knees as if you were curtsying, lowering your body towards the ground. Keep your torso upright and your weight on your front foot. Push through your front foot to return to the starting position. Repeat on the other side, stepping diagonally behind and across your body with your left foot."
       },
       {
          "musclegroup_id": 9,
-         "name": "Assisted lying gluteus and piriformis stretch",
-         "gif": "https://v2.exercisedb.io/image/30rYTDVi7jgJHF",
-         "equipment": "Assisted",
-         "instructions": "Lie on your back with your legs extended. Bend your right knee and place your right ankle on your left thigh, just above the knee. Grasp your left thigh with both hands and gently pull it towards your chest. Hold the stretch for 20-30 seconds. Release the stretch and repeat on the other side."
+         "name": "Barbell stiff leg good morning",
+         "gif": "https://v2.exercisedb.io/image/yvF-0kPnt4SrjX",
+         "equipment": "Barbell",
+         "instructions": "Stand with your feet shoulder-width apart and your knees slightly bent. Hold the barbell across your upper back, resting it on your traps. Keeping your back straight, hinge forward at the hips, pushing your glutes back. Lower your torso until it is parallel to the ground, feeling a stretch in your hamstrings. Engage your glutes and hamstrings to return to the starting position. Repeat for the desired number of repetitions."
       },
       {
          "musclegroup_id": 9,
-         "name": "Assisted prone hamstring",
-         "gif": "https://v2.exercisedb.io/image/OnZfHd4LHWXwqM",
-         "equipment": "Assisted",
-         "instructions": "Lie face down on a mat or bench with your legs fully extended. Have a partner or use a resistance band to secure your ankles. Engage your hamstrings and lift your legs towards your glutes, keeping your knees straight. Pause for a moment at the top, then slowly lower your legs back down to the starting position. Repeat for the desired number of repetitions.'"
-      },
-      {
-         "musclegroup_id": 9,
-         "name": "Assisted prone lying quads stretch",
-         "gif": "https://v2.exercisedb.io/image/toGwuDXF7XHLXT",
-         "equipment": "Assisted",
-         "instructions": "Lie face down on the ground with your legs extended. Bend your left knee and reach back with your left hand to grab your left foot or ankle. Gently pull your left foot towards your glutes, feeling a stretch in your left quad. Hold the stretch for 20-30 seconds, then release. Repeat with your right leg."
-      },
-      {
-         "musclegroup_id": 9,
-         "name": "Assisted side lying adductor stretch",
-         "gif": "https://v2.exercisedb.io/image/fkNg-S2-KdwImI",
-         "equipment": "Assisted",
-         "instructions": "Lie on your side with your legs straight and stacked on top of each other. Bend your bottom leg slightly for stability. Place your top foot on a stable surface, such as a bench or step. Keeping your top leg straight, slowly lower it towards the ground, feeling a stretch in your inner thigh. Hold the stretch for 20-30 seconds. Return to the starting position and repeat on the other side."
+         "name": "Barbell step-up",
+         "gif": "https://v2.exercisedb.io/image/XgRujXcylFY0L5",
+         "equipment": "Barbell",
+         "instructions": "Stand in front of a bench or step with a barbell resting on your upper back. Place one foot on the bench or step, ensuring your entire foot is in contact with the surface. Push through your heel and step up onto the bench or step, fully extending your hip and knee. Pause briefly at the top, then lower yourself back down to the starting position. Repeat with the opposite leg. Continue alternating legs for the desired number of repetitions."
       },
       {
          "musclegroup_id": 9,
@@ -538,10 +538,10 @@
       },
       {
          "musclegroup_id": 9,
-         "name": "Band bent-over hip extension",
-         "gif": "https://v2.exercisedb.io/image/hiQP1xREJ9U5Xl",
-         "equipment": "Band",
-         "instructions": "Attach the band to a sturdy anchor point at ankle height. Stand facing away from the anchor point with your feet shoulder-width apart. Step back to create tension in the band, keeping your knees slightly bent. Hinge at the hips and lean forward, maintaining a neutral spine. Extend your right leg straight back, squeezing your glutes at the top. Lower your right leg back down and repeat with the left leg. Continue alternating legs for the desired number of repetitions."
+         "name": "Barbell romanian deadlift",
+         "gif": "https://v2.exercisedb.io/image/EGGLaWrnMseOWb",
+         "equipment": "Barbell",
+         "instructions": "Stand with your feet shoulder-width apart and your toes pointing forward. Hold the barbell with an overhand grip, hands slightly wider than shoulder-width apart. Bend at the hips, keeping your back straight and your knees slightly bent. Lower the barbell towards the ground, keeping it close to your body. Feel the stretch in your hamstrings as you lower the barbell. Once you feel a stretch in your hamstrings, push your hips forward and stand up straight. Squeeze your glutes at the top of the movement. Lower the barbell back down to the starting position and repeat for the desired number of repetitions."
       },
       {
          "musclegroup_id": 9,
@@ -552,17 +552,17 @@
       },
       {
          "musclegroup_id": 9,
-         "name": "Band lying hip internal rotation",
-         "gif": "https://v2.exercisedb.io/image/Ibx-jbyG2-bYV-",
-         "equipment": "Band",
-         "instructions": "Lie on your back with your legs straight and a resistance band looped around your feet. Bend your knees and bring them towards your chest, keeping your feet together. Slowly rotate your knees outwards, away from each other, while keeping your feet together. Pause for a moment at the end of the rotation, then slowly return to the starting position. Repeat for the desired number of repetitions."
+         "name": "Barbell rear lunge",
+         "gif": "https://v2.exercisedb.io/image/LGMJbE4z1nWQr4",
+         "equipment": "Barbell",
+         "instructions": "Start by standing with your feet shoulder-width apart and a barbell resting on your upper back. Take a step backward with your right foot, landing on the ball of your foot. Bend both knees to lower your body until your left thigh is parallel to the ground. Push through your left heel to return to the starting position. Repeat with the other leg."
       },
       {
          "musclegroup_id": 9,
-         "name": "Band one arm single leg split squat",
+         "name": "Cable deadlift",
          "gif": "https://v2.exercisedb.io/image/y1NASKlr7u0ZR7",
-         "equipment": "Band",
-         "instructions": "Stand with your feet hip-width apart and place a resistance band around your ankles. Extend one leg forward and rest the top of your foot on a bench or step behind you. Hold onto a support with one hand for balance. Bend your standing leg and lower your body down into a squat position, keeping your knee in line with your toes. Push through your heel to return to the starting position. Repeat for the desired number of repetitions, then switch legs."
+         "equipment": "Cable",
+         "instructions": "Stand facing the cable machine with your feet shoulder-width apart. Bend at the hips and knees, lowering your torso until your back is parallel to the ground. Grasp the cable handles with an overhand grip, keeping your arms straight and your shoulders back. Engage your glutes and hamstrings to lift the cable handles, extending your hips and standing up straight. Pause for a moment at the top, then slowly lower the cable handles back down to the starting position. Repeat for the desired number of repetitions."
       },
       {
          "musclegroup_id": 9,
@@ -573,17 +573,17 @@
       },
       {
          "musclegroup_id": 9,
-         "name": "Band seated hip internal rotation",
-         "gif": "https://v2.exercisedb.io/image/MQN5HG9p7ZfgP0",
-         "equipment": "Band",
-         "instructions": "Sit on a chair or bench with your back straight and feet flat on the ground. Place a resistance band around your thighs, just above your knees. Keep your knees bent at a 90-degree angle and your feet shoulder-width apart. Engage your glutes and slowly rotate your knees outward, pushing against the resistance of the band. Pause for a moment at the end of the movement, then slowly return to the starting position. Repeat for the desired number of repetitions."
+         "name": "Cable standing hip extension",
+         "gif": "https://v2.exercisedb.io/image/AUgv7vGOv8R6T8",
+         "equipment": "Cable",
+         "instructions": "Attach a cable to a low pulley and stand facing away from the machine. Place the cable around your ankle and stand with your feet shoulder-width apart. Keep your core engaged and your back straight throughout the exercise. Slowly extend your leg straight back, squeezing your glutes at the top of the movement. Pause for a moment, then return to the starting position. Repeat for the desired number of repetitions. Switch sides and repeat with the other leg."
       },
       {
          "musclegroup_id": 9,
-         "name": "Band single leg split squat",
-         "gif": "https://v2.exercisedb.io/image/XWwxGAIWOpdvuC",
-         "equipment": "Band",
-         "instructions": "Stand with your feet hip-width apart and place a resistance band around your ankles. Take a big step forward with your right foot and a smaller step back with your left foot. Bend your knees and lower your body until your right thigh is parallel to the ground, keeping your left knee slightly above the ground. Push through your right heel to return to the starting position. Repeat on the other side."
+         "name": "Butterfly yoga pose",
+         "gif": "https://v2.exercisedb.io/image/t4eCV8Dc1bNvu0",
+         "equipment": "Body Weight",
+         "instructions": "Sit on the floor with your legs extended in front of you. Bend your knees and bring the soles of your feet together, allowing your knees to fall out to the sides. Hold onto your ankles or feet with your hands. Sit up tall and lengthen your spine. Gently press your knees down towards the floor, feeling a stretch in your inner thighs. Hold this position for a few breaths. To release, slowly bring your knees back up and extend your legs."
       },
       {
          "musclegroup_id": 9,
@@ -594,10 +594,10 @@
       },
       {
          "musclegroup_id": 9,
-         "name": "Band squat row",
+         "name": "Barbell wide squat",
          "gif": "https://v2.exercisedb.io/image/eb4ZjmFAxX4KFu",
-         "equipment": "Band",
-         "instructions": "Attach the band to a sturdy anchor point at waist height. Stand facing the anchor point with your feet shoulder-width apart. Hold the band handles with your palms facing each other and your arms extended in front of you. Bend your knees and lower into a squat position, keeping your back straight and chest lifted. From the squat position, pull the band handles towards your body, squeezing your shoulder blades together. Pause for a moment at the top, then slowly release the tension and return to the starting position. Repeat for the desired number of repetitions."
+         "equipment": "Barbell",
+         "instructions": "Stand with your feet wider than shoulder-width apart, toes pointing slightly outward. Hold the barbell across your upper back, resting it on your traps or rear delts. Engage your core and keep your chest up as you lower your body down into a squat, pushing your hips back and bending your knees. Lower until your thighs are parallel to the ground, or as low as you can comfortably go. Pause for a moment at the bottom, then push through your heels to return to the starting position. Repeat for the desired number of repetitions."
       },
       {
          "musclegroup_id": 9,
@@ -608,9 +608,149 @@
       },
       {
          "musclegroup_id": 9,
-         "name": "Band stiff leg deadlift",
+         "name": "Dumbbell goblet squat",
          "gif": "https://v2.exercisedb.io/image/rhpU6-4xNiewpc",
+         "equipment": "Dumbbell",
+         "instructions": "Stand with your feet shoulder-width apart, holding a dumbbell vertically against your chest with both hands. Keeping your chest up and core engaged, lower your body down into a squat position by pushing your hips back and bending your knees. Continue lowering until your thighs are parallel to the ground, or as low as you can comfortably go. Pause for a moment at the bottom, then push through your heels to return to the starting position. Repeat for the desired number of repetitions."
+      },
+      {
+         "musclegroup_id": 10,
+         "name": "3/4 sit-up",
+         "gif": "https://v2.exercisedb.io/image/UcvY9fRgNeiV4m",
+         "equipment": "Body Weight",
+         "instructions": "Lie flat on your back with your knees bent and feet flat on the ground. Place your hands behind your head with your elbows pointing outwards. Engaging your abs, slowly lift your upper body off the ground, curling forward until your torso is at a 45-degree angle. Pause for a moment at the top, then slowly lower your upper body back down to the starting position. Repeat for the desired number of repetitions."
+      },
+      {
+         "musclegroup_id": 10,
+         "name": "Dumbbell side bend",
+         "gif": "https://v2.exercisedb.io/image/XKTHDfiWOHCRn5",
+         "equipment": "Dumbbell",
+         "instructions": "Stand up straight with your feet shoulder-width apart and hold a dumbbell in one hand, letting it hang down by your side. Keeping your back straight and your core engaged, slowly bend sideways at the waist towards the opposite side of the dumbbell, lowering the weight as far as you comfortably can. Pause for a moment, then slowly return to the starting position. Repeat for the desired number of repetitions, then switch sides and repeat."
+      },
+      {
+         "musclegroup_id": 10,
+         "name": "Air bike",
+         "gif": "https://v2.exercisedb.io/image/vqnn-xmm4fINTJ",
+         "equipment": "Body Weight",
+         "instructions": "Lie flat on your back with your hands placed behind your head. Lift your legs off the ground and bend your knees at a 90-degree angle. Bring your right elbow towards your left knee while simultaneously straightening your right leg. Return to the starting position and repeat the movement on the opposite side, bringing your left elbow towards your right knee while straightening your left leg. Continue alternating sides in a pedaling motion for the desired number of repetitions."
+      },
+      {
+         "musclegroup_id": 10,
+         "name": "Alternate heel touchers",
+         "gif": "https://v2.exercisedb.io/image/vqnn-xmm4fINTJ",
+         "equipment": "Body Weight",
+         "instructions": "Lie flat on your back with your knees bent and feet flat on the ground. Extend your arms straight out to the sides, parallel to the ground. Engaging your abs, lift your shoulders off the ground and reach your right hand towards your right heel. Return to the starting position and repeat on the left side, reaching your left hand towards your left heel. Continue alternating sides for the desired number of repetitions."
+      },
+      {
+         "musclegroup_id": 10,
+         "name": "Dead bug",
+         "gif": "https://v2.exercisedb.io/image/Uokr8XkQICPinv",
+         "equipment": "Body Weight",
+         "instructions": "Lie flat on your back with your arms extended towards the ceiling. Bend your knees and lift your legs off the ground, creating a 90-degree angle at your hips and knees. Engage your core and lower back to press your lower back into the ground. Slowly lower your right arm and left leg towards the ground, keeping them straight and hovering just above the floor. Pause for a moment, then return to the starting position. Repeat the movement with your left arm and right leg. Continue alternating sides for the desired number of repetitions."
+      },
+      {
+         "musclegroup_id": 10,
+         "name": "Decline sit-up",
+         "gif": "https://v2.exercisedb.io/image/kXoOcAlD51wuBt",
+         "equipment": "Body Weight",
+         "instructions": "Lie on a decline bench with your feet secured and your knees bent. Place your hands behind your head or across your chest. Engage your abs and lift your upper body off the bench, curling forward towards your knees. Pause for a moment at the top, then slowly lower your upper body back down to the starting position. Repeat for the desired number of repetitions."
+      },
+      {
+         "musclegroup_id": 10,
+         "name": "Arms overhead full sit-up",
+         "gif": "https://v2.exercisedb.io/image/hcbbkHUzwGrwny",
+         "equipment": "Body Weight",
+         "instructions": "Lie flat on your back with your knees bent and feet flat on the ground. Extend your arms overhead, keeping them straight. Engaging your abs, slowly lift your upper body off the ground, curling forward until your torso is upright. Pause for a moment at the top, then slowly lower your upper body back down to the starting position."
+      },
+      {
+         "musclegroup_id": 10,
+         "name": "Assisted hanging knee raise",
+         "gif": "https://v2.exercisedb.io/image/AZb8RmkBQvPpqG",
+         "equipment": "Assisted",
+         "instructions": "Hang from a pull-up bar with your arms fully extended and your palms facing away from you. Engage your core muscles and lift your knees towards your chest, bending at the hips and knees. Pause for a moment at the top of the movement, squeezing your abs. Slowly lower your legs back down to the starting position. Repeat for the desired number of repetitions."
+      },
+      {
+         "musclegroup_id": 10,
+         "name": "Elbow-to-knee",
+         "gif": "https://v2.exercisedb.io/image/b2Vbw1FxgvbPYw",
+         "equipment": "Body Weight",
+         "instructions": "Start by lying flat on your back with your knees bent and feet flat on the ground. Place your hands behind your head with your elbows pointing outwards. Engage your abs and lift your upper body off the ground, bringing your right elbow towards your left knee. At the same time, bring your left knee towards your right elbow, creating a twisting motion. Pause for a moment at the top, then slowly lower your upper body and extend your legs back to the starting position. Repeat the movement, this time bringing your left elbow towards your right knee and your right knee towards your left elbow. Continue alternating sides for the desired number of repetitions."
+      },
+      {
+         "musclegroup_id": 10,
+         "name": "Assisted lying leg raise with lateral throw down",
+         "gif": "https://v2.exercisedb.io/image/7rVuOzzhMo3qnN",
+         "equipment": "Assisted",
+         "instructions": "Lie flat on your back with your legs extended and your arms by your sides. Place your hands under your glutes for support. Engage your abs and lift your legs off the ground, keeping them straight. While keeping your legs together, lower them to one side until they are a few inches above the ground. Pause for a moment, then lift your legs back to the starting position. Repeat the movement to the other side. Continue alternating sides for the desired number of repetitions."
+      },
+      {
+         "musclegroup_id": 10,
+         "name": "Frog crunch",
+         "gif": "https://v2.exercisedb.io/image/or6kRnHBhDTD83",
+         "equipment": "Body Weight",
+         "instructions": "Lie flat on your back with your knees bent and feet flat on the ground. Place your hands behind your head with your elbows pointing outwards. Engaging your abs, lift your upper body off the ground, curling forward until your torso is at a 45-degree angle. Pause for a moment at the top, then slowly lower your upper body back down to the starting position. Repeat for the desired number of repetitions."
+      },
+      {
+         "musclegroup_id": 10,
+         "name": "Front plank with twist",
+         "gif": "https://v2.exercisedb.io/image/lWoYLbIddFMglG",
+         "equipment": "Body Weight",
+         "instructions": "Start in a high plank position with your hands directly under your shoulders and your body in a straight line from head to toe. Engage your core and glutes to maintain a stable position. Rotate your torso to the right, lifting your right arm and extending it towards the ceiling. Keep your hips and legs stable as you twist. Hold for a moment, then return to the starting position. Repeat the twist on the left side. Continue alternating sides for the desired number of repetitions."
+      },
+      {
+         "musclegroup_id": 10,
+         "name": "Groin crunch",
+         "gif": "https://v2.exercisedb.io/image/mVdlgn-TAQEXfu",
+         "equipment": "Body Weight",
+         "instructions": "Lie flat on your back with your knees bent and feet flat on the ground. Place your hands behind your head with your elbows pointing outwards. Engaging your abs, lift your legs off the ground, bringing your knees towards your chest. Pause for a moment at the top, then slowly lower your legs back down to the starting position. Repeat for the desired number of repetitions."
+      },
+      {
+         "musclegroup_id": 10,
+         "name": "Assisted sit-up",
+         "gif": "https://v2.exercisedb.io/image/DD2SFnov6f7Pax",
+         "equipment": "Assisted",
+         "instructions": "Sit on the edge of a bench or have someone hold your feet down. Lie flat on your back with your knees bent and feet flat on the ground. Place your hands behind your head with your elbows pointing outwards. Engaging your abs, slowly lift your upper body off the ground, curling forward until your torso is at a 45-degree angle. Pause for a moment at the top, then slowly lower your upper body back down to the starting position. Repeat for the desired number of repetitions."
+      },
+      {
+         "musclegroup_id": 10,
+         "name": "Hanging Leg Raise",
+         "gif": "https://v2.exercisedb.io/image/3mwu9jj2f7P6fW",
+         "equipment": "Body Weight",
+         "instructions": "Hang from a pull-up bar with your arms fully extended and your palms facing away from you. Engage your core and lift your legs up in front of you, keeping them straight. Continue lifting until your legs are parallel to the ground or as high as you can comfortably go. Pause for a moment at the top, then slowly lower your legs back down to the starting position. Repeat for the desired number of repetitions."
+      },
+      {
+         "musclegroup_id": 10,
+         "name": "Inchworm",
+         "gif": "https://v2.exercisedb.io/image/Bzq7te7xqpuQ5f",
+         "equipment": "Body Weight",
+         "instructions": "Start in a standing position with your feet hip-width apart. Bend forward at the waist and place your hands on the ground in front of you. Walk your hands forward until you are in a high plank position, with your body in a straight line from head to toe. Pause for a moment, then walk your hands back towards your feet, keeping your legs as straight as possible. Once your hands reach your feet, stand back up to the starting position. Repeat for the desired number of repetitions."
+      },
+      {
+         "musclegroup_id": 10,
+         "name": "Band bicycle crunch",
+         "gif": "https://v2.exercisedb.io/image/YvkXDmScTlfv5f",
          "equipment": "Band",
-         "instructions": "Stand with your feet shoulder-width apart and place the band around your ankles. Hold the band with both hands in front of your thighs, palms facing your body. Keeping your back straight and your core engaged, hinge at the hips and slowly lower your upper body towards the ground. As you lower, push your hips back and allow your knees to bend slightly. Lower the band towards the ground, feeling a stretch in your hamstrings. Pause for a moment at the bottom, then engage your glutes and hamstrings to lift your upper body back up to the starting position. Repeat for the desired number of repetitions."
+         "instructions": "Lie flat on your back with your hands behind your head and your knees bent. Lift your feet off the ground and bring your right knee towards your chest while simultaneously twisting your torso to bring your left elbow towards your right knee. Straighten your right leg while bringing your left knee towards your chest and twisting your torso to bring your right elbow towards your left knee. Continue alternating the twisting motion, as if you are pedaling a bicycle, while keeping your core engaged throughout the movement. Repeat for the desired number of repetitions."
+      },
+      {
+         "musclegroup_id": 10,
+         "name": "Crunch (on stability ball)",
+         "gif": "https://v2.exercisedb.io/image/2i1S2gkyquzgcy",
+         "equipment": "Stability Ball",
+         "instructions": "Sit on the stability ball with your feet flat on the ground and your knees bent at a 90-degree angle. Lie back on the ball until your lower back is supported and your upper body is parallel to the floor. Place your hands behind your head or across your chest. Engage your abs and lift your upper body towards your knees, curling your torso forward. Pause for a moment at the top of the movement, then slowly lower your upper body back down to the starting position. Repeat for the desired number of repetitions."
+      },
+      {
+         "musclegroup_id": 10,
+         "name": "Cross body crunch",
+         "gif": "https://v2.exercisedb.io/image/znbSwATOCU1Uwf",
+         "equipment": "Body Weight",
+         "instructions": "Lie flat on your back with your knees bent and feet flat on the ground. Place your hands behind your head with your elbows pointing outwards. Engaging your abs, lift your upper body off the ground and twist to bring your right elbow towards your left knee. Pause for a moment at the top, then slowly lower your upper body back down to the starting position. Repeat on the other side, bringing your left elbow towards your right knee. Repeat for the desired number of repetitions."
+      },
+      {
+         "musclegroup_id": 10,
+         "name": "Cable twist",
+         "gif": "https://v2.exercisedb.io/image/ZR1p5YnENbCDIv",
+         "equipment": "Cable",
+         "instructions": "Stand with your feet shoulder-width apart, facing the cable machine. Hold the cable handle with both hands in front of your chest, keeping your arms slightly bent. Engage your core and twist your torso to the right, pulling the cable across your body. Pause for a moment at the end of the movement, feeling the contraction in your abs and obliques. Slowly return to the starting position, resisting the cable's pull. Repeat the movement to the left side. Continue alternating sides for the desired number of repetitions."
       }
 ]

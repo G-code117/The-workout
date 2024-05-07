@@ -21,7 +21,7 @@ const fetchData = async () => {
     const options = {
         method: 'GET',
         url: 'https://exercisedb.p.rapidapi.com/exercises/bodyPart/upper%20legs',
-        params: {limit: '20'},
+        params: {limit: '200'},
         headers: {
           'X-RapidAPI-Key': '65d425a615msh8b10438e995f535p1d297ajsn78f72a232e93',
           'X-RapidAPI-Host': 'exercisedb.p.rapidapi.com'
