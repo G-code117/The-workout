@@ -405,69 +405,139 @@
       },
       {
          "musclegroup_id": 8,
+         "name": "Biceps pull-up",
+         "gif": "https://v2.exercisedb.io/image/Lj4mYh4R2HfJao",
+         "equipment": "Body Weight",
+         "instructions": "Hang from a pull-up bar with your palms facing away from you and your hands shoulder-width apart. Engage your core and pull yourself up by bending your elbows, bringing your chest towards the bar. Pause at the top of the movement, then slowly lower yourself back down to the starting position. Repeat for the desired number of repetitions."
+      },
+      {
+         "musclegroup_id": 8,
+         "name": "Close-grip push-up",
+         "gif": "https://v2.exercisedb.io/image/sxlmQooNnPfzZ7",
+         "equipment": "Body Weight",
+         "instructions": "Start in a high plank position with your hands placed close together, directly under your shoulders. Engage your core and lower your body towards the ground, keeping your elbows close to your sides. Push through your palms to extend your arms and return to the starting position. Repeat for the desired number of repetitions."
+      },
+      {
+         "musclegroup_id": 8,
+         "name": "Cable curl",
+         "gif": "https://v2.exercisedb.io/image/lmekoDoYKnygNe",
+         "equipment": "Cable",
+         "instructions": "Stand facing the cable machine with your feet shoulder-width apart. Grasp the cable attachment with an underhand grip, palms facing up. Keep your elbows close to your sides and your upper arms stationary. Exhale and curl the cable attachment towards your shoulders, contracting your biceps. Pause for a moment at the top of the movement, squeezing your biceps. Inhale and slowly lower the cable attachment back to the starting position. Repeat for the desired number of repetitions."
+      },
+      {
+         "musclegroup_id": 8,
+         "name": "Cable kickback",
+         "gif": "https://v2.exercisedb.io/image/iUS2KNa60Ldy1i",
+         "equipment": "Cable",
+         "instructions": "Stand facing a cable machine with your feet shoulder-width apart. Hold the cable handle with your right hand and step back to create tension in the cable. Bend your knees slightly and hinge forward at the hips, keeping your back straight. Keep your upper arm close to your body and your elbow bent at a 90-degree angle. Extend your forearm backward, straightening your arm fully. Pause for a moment, then slowly return to the starting position. Repeat for the desired number of repetitions, then switch sides."
+      },
+      {
+         "musclegroup_id": 8,
+         "name": "Cable standing pulldown (with rope)",
+         "gif": "https://v2.exercisedb.io/image/m1AtrTeawWhWYo",
+         "equipment": "Cable",
+         "instructions": "Attach a rope to the cable machine at the highest setting. Stand facing the machine with your feet shoulder-width apart. Grasp the rope with an overhand grip, palms facing down. Keep your back straight and core engaged throughout the exercise. Pull the rope down towards your thighs, squeezing your biceps. Pause for a moment at the bottom, then slowly release the rope back up. Repeat for the desired number of repetitions."
+      },
+      {
+         "musclegroup_id": 8,
+         "name": "Dumbbell biceps curl",
+         "gif": "https://v2.exercisedb.io/image/qHyVeDRr83BS3b",
+         "equipment": "Dumbbell",
+         "instructions": "Stand up straight with a dumbbell in each hand, palms facing forward and arms fully extended. Keeping your upper arms stationary, exhale and curl the weights while contracting your biceps. Continue to raise the weights until your biceps are fully contracted and the dumbbells are at shoulder level. Hold the contracted position for a brief pause as you squeeze your biceps. Inhale and slowly begin to lower the dumbbells back to the starting position. Repeat for the desired number of repetitions."
+      },
+      {
+         "musclegroup_id": 8,
+         "name": "Dumbbell cross body hammer curl",
+         "gif": "https://v2.exercisedb.io/image/BLSzQE79pQ5czq",
+         "equipment": "Dumbbell",
+         "instructions": "Stand up straight with a dumbbell in each hand, palms facing your body. Keep your elbows close to your torso and your upper arms stationary. Exhale and curl the weights while contracting your biceps, bringing the dumbbells across your body towards your opposite shoulder. Continue to raise the dumbbells until your biceps are fully contracted and the dumbbells are at shoulder level. Hold the contracted position for a brief pause as you squeeze your biceps. Inhale and slowly begin to lower the dumbbells back to the starting position. Repeat for the desired number of repetitions."
+      },
+      {
+         "musclegroup_id": 8,
+         "name": "Dumbbell preacher curl",
+         "gif": "https://v2.exercisedb.io/image/sioGJAoPRMmzpW",
+         "equipment": "Dumbbell",
+         "instructions": "Sit on a preacher curl bench with your upper arms resting on the pad and your chest against it. Hold a dumbbell in each hand with your palms facing up and your arms fully extended. Keeping your upper arms stationary, exhale and curl the weights while contracting your biceps. Continue to raise the dumbbells until your biceps are fully contracted and the dumbbells are at shoulder level. Hold the contracted position for a brief pause as you squeeze your biceps. Inhale and slowly begin to lower the dumbbells back to the starting position. Repeat for the desired number of repetitions."
+      },
+      {
+         "musclegroup_id": 8,
+         "name": "Barbell close-grip bench press",
+         "gif": "https://v2.exercisedb.io/image/TM2xJmn7iPkm3Y",
+         "equipment": "Barbell",
+         "instructions": "Lie flat on a bench with your feet flat on the ground and your back pressed against the bench. Grasp the barbell with a close grip, slightly narrower than shoulder-width apart. Unrack the barbell and lower it slowly towards your chest, keeping your elbows close to your body. Pause for a moment when the barbell touches your chest. Push the barbell back up to the starting position, fully extending your arms. Repeat for the desired number of repetitions."
+      },
+      {
+         "musclegroup_id": 8,
+         "name": "Barbell decline close grip to skull press",
+         "gif": "https://v2.exercisedb.io/image/xcKqIdnbK62mjq",
+         "equipment": "Barbell",
+         "instructions": "Lie on a decline bench with your head lower than your feet and hold a barbell with a close grip. Lower the barbell towards your forehead by bending your elbows, keeping your upper arms stationary. Pause for a moment, then extend your arms to press the barbell back up to the starting position. Repeat for the desired number of repetitions."
+      },
+      {
+         "musclegroup_id": 9,
          "name": "",
          "gif": "",
          "equipment": "",
          "instructions": ""
       },
       {
-         "musclegroup_id": 8,
+         "musclegroup_id": 9,
          "name": "",
          "gif": "",
          "equipment": "",
          "instructions": ""
       },
       {
-         "musclegroup_id": 8,
+         "musclegroup_id": 9,
          "name": "",
          "gif": "",
          "equipment": "",
          "instructions": ""
       },
       {
-         "musclegroup_id": 8,
+         "musclegroup_id": 9,
          "name": "",
          "gif": "",
          "equipment": "",
          "instructions": ""
       },
       {
-         "musclegroup_id": 8,
+         "musclegroup_id": 9,
          "name": "",
          "gif": "",
          "equipment": "",
          "instructions": ""
       },
       {
-         "musclegroup_id": 8,
+         "musclegroup_id": 9,
          "name": "",
          "gif": "",
          "equipment": "",
          "instructions": ""
       },
       {
-         "musclegroup_id": 8,
+         "musclegroup_id": 9,
          "name": "",
          "gif": "",
          "equipment": "",
          "instructions": ""
       },
       {
-         "musclegroup_id": 8,
+         "musclegroup_id": 9,
          "name": "",
          "gif": "",
          "equipment": "",
          "instructions": ""
       },
       {
-         "musclegroup_id": 8,
+         "musclegroup_id": 9,
          "name": "",
          "gif": "",
          "equipment": "",
          "instructions": ""
       },
       {
-         "musclegroup_id": 8,
+         "musclegroup_id": 9,
          "name": "",
          "gif": "",
          "equipment": "",
