@@ -10,8 +10,29 @@ Workout.init({
         primaryKey: true,
         autoIncrement: true,
     },
-    name:{
+    user_id: {
+        type: Datatypes.INTEGER,
+        allowNull: false,
+        references: {
+            model: 'user',
+            key: id
+        }
+    },
+    exercise_id: {
+        type: Datatypes.INTEGER,
+        allowNull: false,
+        references: {
+            model: 'exercise',
+            key: id
+        }
+    },
+    name: {
         type: Datatypes.STRING,
+        allowNull: false,
+    },
+    date: {
+        type: Datatypes.TIMESTAMP,
+        allowNull: false,
     }
 },{
     sequelize,
