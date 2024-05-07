@@ -1,6 +1,7 @@
 const sequelize = require('../config/connections');
-const seedUsers = require('./userData');
-const seedExercise = require('./exercise');
+const seedUsers = require('./user.json');
+const seedExercise = require('./exerciseData.json');
+const seedMuscleGroup = require('./muscleGroupData.json');
 
 const seedAll = async () => {
     await sequelize.sync({ force: true });
@@ -8,6 +9,8 @@ const seedAll = async () => {
     await seedUsers();
   
     await seedExercise();
+
+    await seedMuscleGroup();
   
     process.exit(0);
   };
