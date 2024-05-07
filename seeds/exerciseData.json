@@ -475,72 +475,142 @@
       },
       {
          "musclegroup_id": 9,
-         "name": "",
-         "gif": "",
-         "equipment": "",
-         "instructions": ""
+         "name": "All fours squad stretch",
+         "gif": "https://v2.exercisedb.io/image/vKAWsPzehvwbAa",
+         "equipment": "Body Weight",
+         "instructions": "Start on all fours with your hands directly under your shoulders and your knees directly under your hips. Extend one leg straight back, keeping your knee bent and your foot flexed. Slowly lower your hips towards the ground, feeling a stretch in your quads. Hold this position for 20-30 seconds. Switch legs and repeat the stretch on the other side."
       },
       {
          "musclegroup_id": 9,
-         "name": "",
-         "gif": "",
-         "equipment": "",
-         "instructions": ""
+         "name": "Arms apart circular toe touch",
+         "gif": "https://v2.exercisedb.io/image/wKh-S8vA0Tf7WM",
+         "equipment": "Body Weight",
+         "instructions": "Stand with your feet shoulder-width apart and arms extended to the sides. Keeping your legs straight, bend forward at the waist and reach down towards your toes with your right hand. As you reach down, simultaneously lift your left leg straight up behind you, maintaining balance. Return to the starting position and repeat the movement with your left hand reaching towards your toes and your right leg lifting up behind you. Continue alternating sides for the desired number of repetitions."
       },
       {
          "musclegroup_id": 9,
-         "name": "",
-         "gif": "",
-         "equipment": "",
-         "instructions": ""
+         "name": "Assisted lying glutes stretch",
+         "gif": "https://v2.exercisedb.io/image/iAB6cMlGvS298d",
+         "equipment": "Assisted",
+         "instructions": "Lie on your back with your legs extended. Bend your right knee and place your right ankle on your left thigh, just above the knee. Grasp your left thigh with both hands and gently pull it towards your chest. Hold the stretch for 20-30 seconds. Release and repeat on the other side."
       },
       {
          "musclegroup_id": 9,
-         "name": "",
-         "gif": "",
-         "equipment": "",
-         "instructions": ""
+         "name": "Assisted lying gluteus and piriformis stretch",
+         "gif": "https://v2.exercisedb.io/image/30rYTDVi7jgJHF",
+         "equipment": "Assisted",
+         "instructions": "Lie on your back with your legs extended. Bend your right knee and place your right ankle on your left thigh, just above the knee. Grasp your left thigh with both hands and gently pull it towards your chest. Hold the stretch for 20-30 seconds. Release the stretch and repeat on the other side."
       },
       {
          "musclegroup_id": 9,
-         "name": "",
-         "gif": "",
-         "equipment": "",
-         "instructions": ""
+         "name": "Assisted prone hamstring",
+         "gif": "https://v2.exercisedb.io/image/OnZfHd4LHWXwqM",
+         "equipment": "Assisted",
+         "instructions": "Lie face down on a mat or bench with your legs fully extended. Have a partner or use a resistance band to secure your ankles. Engage your hamstrings and lift your legs towards your glutes, keeping your knees straight. Pause for a moment at the top, then slowly lower your legs back down to the starting position. Repeat for the desired number of repetitions.'"
       },
       {
          "musclegroup_id": 9,
-         "name": "",
-         "gif": "",
-         "equipment": "",
-         "instructions": ""
+         "name": "Assisted prone lying quads stretch",
+         "gif": "https://v2.exercisedb.io/image/toGwuDXF7XHLXT",
+         "equipment": "Assisted",
+         "instructions": "Lie face down on the ground with your legs extended. Bend your left knee and reach back with your left hand to grab your left foot or ankle. Gently pull your left foot towards your glutes, feeling a stretch in your left quad. Hold the stretch for 20-30 seconds, then release. Repeat with your right leg."
       },
       {
          "musclegroup_id": 9,
-         "name": "",
-         "gif": "",
-         "equipment": "",
-         "instructions": ""
+         "name": "Assisted side lying adductor stretch",
+         "gif": "https://v2.exercisedb.io/image/fkNg-S2-KdwImI",
+         "equipment": "Assisted",
+         "instructions": "Lie on your side with your legs straight and stacked on top of each other. Bend your bottom leg slightly for stability. Place your top foot on a stable surface, such as a bench or step. Keeping your top leg straight, slowly lower it towards the ground, feeling a stretch in your inner thigh. Hold the stretch for 20-30 seconds. Return to the starting position and repeat on the other side."
       },
       {
          "musclegroup_id": 9,
-         "name": "",
-         "gif": "",
-         "equipment": "",
-         "instructions": ""
+         "name": "Backward jump",
+         "gif": "https://v2.exercisedb.io/image/SnSQHwx8sNGknJ",
+         "equipment": "Body Weight",
+         "instructions": "Stand with your feet shoulder-width apart. Bend your knees slightly and jump backwards, pushing off with both feet. Land softly on the balls of your feet, bending your knees to absorb the impact. Repeat for the desired number of repetitions."
       },
       {
          "musclegroup_id": 9,
-         "name": "",
-         "gif": "",
-         "equipment": "",
-         "instructions": ""
+         "name": "Balance board",
+         "gif": "https://v2.exercisedb.io/image/WvSjdQmqc2doSN",
+         "equipment": "Body Weight",
+         "instructions": "Place the balance board on a flat surface. Step onto the balance board with one foot, ensuring it is centered. Slowly shift your weight onto the foot on the balance board, keeping your core engaged. Maintain your balance and stability as you hold the position for a desired amount of time. Repeat the exercise with the other foot."
       },
       {
          "musclegroup_id": 9,
-         "name": "",
-         "gif": "",
-         "equipment": "",
-         "instructions": ""
+         "name": "Band bent-over hip extension",
+         "gif": "https://v2.exercisedb.io/image/hiQP1xREJ9U5Xl",
+         "equipment": "Band",
+         "instructions": "Attach the band to a sturdy anchor point at ankle height. Stand facing away from the anchor point with your feet shoulder-width apart. Step back to create tension in the band, keeping your knees slightly bent. Hinge at the hips and lean forward, maintaining a neutral spine. Extend your right leg straight back, squeezing your glutes at the top. Lower your right leg back down and repeat with the left leg. Continue alternating legs for the desired number of repetitions."
+      },
+      {
+         "musclegroup_id": 9,
+         "name": "Band hip lift",
+         "gif": "https://v2.exercisedb.io/image/aoJP02QMqPhaiK",
+         "equipment": "Band",
+         "instructions": "Lie on your back with your knees bent and feet flat on the ground. Place a resistance band just above your knees. Engage your glutes and core muscles. Press your heels into the ground and lift your hips off the floor, squeezing your glutes at the top. Pause for a moment at the top, then slowly lower your hips back down to the starting position. Repeat for the desired number of repetitions."
+      },
+      {
+         "musclegroup_id": 9,
+         "name": "Band lying hip internal rotation",
+         "gif": "https://v2.exercisedb.io/image/Ibx-jbyG2-bYV-",
+         "equipment": "Band",
+         "instructions": "Lie on your back with your legs straight and a resistance band looped around your feet. Bend your knees and bring them towards your chest, keeping your feet together. Slowly rotate your knees outwards, away from each other, while keeping your feet together. Pause for a moment at the end of the rotation, then slowly return to the starting position. Repeat for the desired number of repetitions."
+      },
+      {
+         "musclegroup_id": 9,
+         "name": "Band one arm single leg split squat",
+         "gif": "https://v2.exercisedb.io/image/y1NASKlr7u0ZR7",
+         "equipment": "Band",
+         "instructions": "Stand with your feet hip-width apart and place a resistance band around your ankles. Extend one leg forward and rest the top of your foot on a bench or step behind you. Hold onto a support with one hand for balance. Bend your standing leg and lower your body down into a squat position, keeping your knee in line with your toes. Push through your heel to return to the starting position. Repeat for the desired number of repetitions, then switch legs."
+      },
+      {
+         "musclegroup_id": 9,
+         "name": "Band pull through",
+         "gif": "https://v2.exercisedb.io/image/mOtrrn77UOR06q",
+         "equipment": "Band",
+         "instructions": "Stand with your feet hip-width apart and place a resistance band around your ankles. Extend one leg forward and rest the top of your foot on a bench or step behind you. Hold onto a support with one hand for balance. Bend your standing leg and lower your body down into a squat position, keeping your knee in line with your toes. Push through your heel to return to the starting position. Repeat for the desired number of repetitions, then switch legs."
+      },
+      {
+         "musclegroup_id": 9,
+         "name": "Band seated hip internal rotation",
+         "gif": "https://v2.exercisedb.io/image/MQN5HG9p7ZfgP0",
+         "equipment": "Band",
+         "instructions": "Sit on a chair or bench with your back straight and feet flat on the ground. Place a resistance band around your thighs, just above your knees. Keep your knees bent at a 90-degree angle and your feet shoulder-width apart. Engage your glutes and slowly rotate your knees outward, pushing against the resistance of the band. Pause for a moment at the end of the movement, then slowly return to the starting position. Repeat for the desired number of repetitions."
+      },
+      {
+         "musclegroup_id": 9,
+         "name": "Band single leg split squat",
+         "gif": "https://v2.exercisedb.io/image/XWwxGAIWOpdvuC",
+         "equipment": "Band",
+         "instructions": "Stand with your feet hip-width apart and place a resistance band around your ankles. Take a big step forward with your right foot and a smaller step back with your left foot. Bend your knees and lower your body until your right thigh is parallel to the ground, keeping your left knee slightly above the ground. Push through your right heel to return to the starting position. Repeat on the other side."
+      },
+      {
+         "musclegroup_id": 9,
+         "name": "Band squat",
+         "gif": "https://v2.exercisedb.io/image/JgX6MpyAbaEjel",
+         "equipment": "Band",
+         "instructions": "Stand with your feet shoulder-width apart, with the band placed just above your knees. Keeping your chest up and core engaged, push your hips back and bend your knees to lower into a squat position. Make sure your knees are tracking over your toes and your weight is in your heels. Pause for a moment at the bottom, then push through your heels to return to the starting position. Repeat for the desired number of repetitions."
+      },
+      {
+         "musclegroup_id": 9,
+         "name": "Band squat row",
+         "gif": "https://v2.exercisedb.io/image/eb4ZjmFAxX4KFu",
+         "equipment": "Band",
+         "instructions": "Attach the band to a sturdy anchor point at waist height. Stand facing the anchor point with your feet shoulder-width apart. Hold the band handles with your palms facing each other and your arms extended in front of you. Bend your knees and lower into a squat position, keeping your back straight and chest lifted. From the squat position, pull the band handles towards your body, squeezing your shoulder blades together. Pause for a moment at the top, then slowly release the tension and return to the starting position. Repeat for the desired number of repetitions."
+      },
+      {
+         "musclegroup_id": 9,
+         "name": "Band step-up",
+         "gif": "https://v2.exercisedb.io/image/rhpU6-4xNiewpc",
+         "equipment": "Band",
+         "instructions": "Place a band around your thighs, just above your knees. Stand facing a step or platform with your feet hip-width apart. Step up onto the platform with your right foot, pushing through your heel. Extend your left leg behind you, keeping it straight. Lower your left foot back down to the ground. Repeat with your left foot stepping up onto the platform. Continue alternating legs for the desired number of repetitions."
+      },
+      {
+         "musclegroup_id": 9,
+         "name": "Band stiff leg deadlift",
+         "gif": "https://v2.exercisedb.io/image/rhpU6-4xNiewpc",
+         "equipment": "Band",
+         "instructions": "Stand with your feet shoulder-width apart and place the band around your ankles. Hold the band with both hands in front of your thighs, palms facing your body. Keeping your back straight and your core engaged, hinge at the hips and slowly lower your upper body towards the ground. As you lower, push your hips back and allow your knees to bend slightly. Lower the band towards the ground, feeling a stretch in your hamstrings. Pause for a moment at the bottom, then engage your glutes and hamstrings to lift your upper body back up to the starting position. Repeat for the desired number of repetitions."
       }
 ]
