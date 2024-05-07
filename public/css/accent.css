@@ -1,37 +1,64 @@
-/* Accent styles */
-
-/* Example accent color */
+/* Accent color */
 .accent-color {
-    color: #ff6347; /* Coral color */
-}
-
-/* Example accent background color */
-.accent-bg {
-    background-color: #ff6347; /* Coral color */
-}
-
-/* Example accent border color */
-.accent-border {
-    border-color: #ff6347; /* Coral color */
-}
-
-/* Example accent hover effect */
-.accent-hover:hover {
-    background-color: #ff6347; /* Coral color */
-    color: #fff;
-}
-
-/* Example accent text shadow */
-.accent-text-shadow {
-    text-shadow: 1px 1px 2px #ff6347; /* Coral color */
-}
-
-/* Example accent box shadow */
-.accent-box-shadow {
-    box-shadow: 2px 2px 4px #ff6347; /* Coral color */
-}
-
-/* Example accent font style */
-.accent-font {
-    font-style: italic;
-}
+    color: #ff6600; /* Orange color */
+  }
+  
+  /* Accent background color */
+  .accent-bg-color {
+    background-color: #ff6600; /* Orange color */
+  }
+  
+  /* Accent border color */
+  .accent-border-color {
+    border-color: #ff6600; /* Orange color */
+  }
+  
+  /* Accent text shadow */
+  .accent-text-shadow {
+    text-shadow: 1px 1px 2px #ff6600; /* Orange color */
+  }
+  
+  /* Accent box shadow */
+  .accent-box-shadow {
+    box-shadow: 2px 2px 4px #ff6600; /* Orange color */
+  }
+  
+  /* Accent hover effect */
+  .accent-hover {
+    transition: background-color 0.3s ease;
+  }
+  
+  .accent-hover:hover {
+    background-color: #ff6600; /* Orange color */
+    color: #fff; /* White text color */
+  }
+  
+  /* Custom accent styles for specific elements */
+  header {
+    background-color: #ff6600; /* Orange color */
+  }
+  
+  nav {
+    background-color: #333; /* Dark gray color */
+  }
+  
+  nav a, nav button {
+    color: #fff; /* White color */
+  }
+  
+  nav a:hover, nav button:hover {
+    background-color: #ff6600; /* Orange color */
+  }
+  
+  main {
+    background-color: #fff; /* White color */
+  }
+  
+  aside {
+    background-color: #ff9900; /* Light orange color */
+  }
+  
+  .exercise {
+    background-color: #ccc; /* Light gray color */
+  }
+  
