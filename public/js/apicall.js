@@ -20,10 +20,10 @@ const fetchData = async () => {
   const apiKey = getRandomApiKey();
     const options = {
         method: 'GET',
-        url: 'https://exercisedb.p.rapidapi.com/exercises/bodyPart/back',
-        params: {limit: '10'},
+        url: 'https://exercisedb.p.rapidapi.com/exercises/bodyPart/upper%20legs',
+        params: {limit: '20'},
         headers: {
-          'X-RapidAPI-Key': apiKey,
+          'X-RapidAPI-Key': '65d425a615msh8b10438e995f535p1d297ajsn78f72a232e93',
           'X-RapidAPI-Host': 'exercisedb.p.rapidapi.com'
         }
       };
