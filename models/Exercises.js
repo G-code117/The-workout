@@ -1,40 +1,42 @@
-const { Model, Datatypes } = require('sequelize');
+const { Model, DataTypes } = require('sequelize');
 const sequelize = require('../config/connection.js');
 
 class Exercise extends Model{}
 
-Exercise.init({
+Exercise.init(
+{
     id: {
-        type: Datatypes.INTEGER,
+        type: DataTypes.INTEGER,
         allowNull: false,
         primaryKey: true,
         autoIncrement: true,
     },
     musclegroup_id: {
-        type: Datatypes.INTEGER,
+        type: DataTypes.INTEGER,
         allowNull: false,
         reference: {
             model: 'musclegroup',
-            key: id
+            key: 'id'
         }
     },
     name: {
-        type: Datatypes.STRING,
+        type: DataTypes.STRING,
         allowNull: false,
     },
     gif: {
-        type: Datatypes.STRING,
+        type: DataTypes.STRING,
         allowNull: false,
     },
     equipment: {
-        type: Datatypes.STRING,
+        type: DataTypes.STRING,
         allowNull: false,
     },
     instructions: {
-        type: Datatypes.STRING,
+        type: DataTypes.STRING,
         allowNull: false,
     }
-},{
+},
+{
     sequelize,
     timestamps: false,
     modelname: "exercise",
