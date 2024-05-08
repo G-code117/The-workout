@@ -1,4 +1,6 @@
-const sequelize = require('../config/connections');
+const sequelize = require('../config/connection');
+const { User, MuscleGroup, Exercise } = require('../models');
+
 const seedUsers = require('./user.json');
 const seedExercise = require('./exerciseData.json');
 const seedMuscleGroup = require('./muscleGroupData.json');
@@ -6,11 +8,20 @@ const seedMuscleGroup = require('./muscleGroupData.json');
 const seedAll = async () => {
     await sequelize.sync({ force: true });
   
-    await seedUsers();
+    await User.bulkCreate(seedUsers, {
+      individualHooks: true,
+      returning: true,
+    });
   
-    await seedExercise();
+    await MuscleGroup.bulkCreate(seedMuscleGroup, {
+      individualHooks: true,
+      returning: true,
+    });
 
-    await seedMuscleGroup();
+    await Exercise.bulkCreate(seedExercise, {
+      individualHooks: true,
+      returning: true,
+    });
   
     process.exit(0);
   };

@@ -1,17 +1,17 @@
-const { Model, Datatypes } = require('sequelize');
+const { Model, DataTypes } = require('sequelize');
 const sequelize = require('../config/connection.js');
 
 class MuscleGroup extends Model{}
 
 MuscleGroup.init({
     id: {
-        type: Datatypes.INTEGER,
+        type: DataTypes.INTEGER,
         allowNull: false,
         primaryKey: true,
         autoIncrement: true,
     },
     name:{
-        type: Datatypes.STRING,
+        type: DataTypes.STRING,
     }
 },{
     sequelize,
