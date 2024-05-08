@@ -17,6 +17,7 @@ A fitness app that will help you plan your workouts.
 
   * [Installation](#installation)
   * [Usage](#usage)
+  * [Credits](#credits)
   * [License](#license)
   * [Questions](#questions)
 
