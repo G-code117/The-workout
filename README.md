@@ -1,5 +1,5 @@
 # The-Workout
-A fitness app that will help you plan your workouts.
+#### A fitness app that will help you plan your workouts.
 
  [![NPM Express](https://img.shields.io/badge/NPM-Express-orange.svg)](https://www.npmjs.com/package/express)
  [![NPM Express-Session](https://img.shields.io/badge/NPM-ExpressSession-orange.svg)](https://www.npmjs.com/package/express-session)
@@ -8,7 +8,6 @@ A fitness app that will help you plan your workouts.
  [![NPM Dotenv](https://img.shields.io/badge/NPM-Dotenv-orange.svg)](https://www.npmjs.com/package/dotenv)
  [![NPM Handlebars](https://img.shields.io/badge/NPM-Handlebars-orange.svg)](https://www.npmjs.com/package/handlebars)
  [![NPM Bcrypt](https://img.shields.io/badge/NPM-Bcrypt-orange.svg)](https://www.npmjs.com/package/bcrypt)
- [![NPM Axios](https://img.shields.io/badge/NPM-Axios-orange.svg)](https://www.npmjs.com/package/axios)
 
 ## Description
 
@@ -55,4 +54,4 @@ Jensen's Email: lockinjce@gmail.com
 Zach's Github: (https://github.com/ZachariahKB)
 Zach's Email: principalzach@gmail.com
 
-Thank you!!
+### Thank you!!
