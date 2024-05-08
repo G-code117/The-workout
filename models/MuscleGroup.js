@@ -16,8 +16,8 @@ MuscleGroup.init({
 },{
     sequelize,
     timestamps: false,
-    modelname: 'musclegroup',
     freezeTableName: true,
+    modelName: 'musclegroup',
 });
 
 module.exports = MuscleGroup;
