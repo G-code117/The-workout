@@ -35,8 +35,22 @@ User.init(
         len: [8],
       },
     },
-  },
-  {
+    gender: {
+      type: DataTypes.STRING,
+      allowNull: false,
+    },
+    age: {
+      type: DataTypes.INTEGER,
+      allowNull: false,
+    },
+    height: {
+      type: DataTypes.FLOAT,
+      allowNull: false,
+    },
+    weight: {
+      type: DataTypes.FLOAT,
+      allowNull: false,
+    },
     hooks: {
       beforeCreate: async (newUserData) => {
         newUserData.password = await bcrypt.hash(newUserData.password, 10);

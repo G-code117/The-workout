@@ -1,6 +1,8 @@
 <div class="row">
   <div class="col-auto">
-    <h2>Welcome, {{name}}!</h2>
+    <h2>Welcome, {{name}}!
+        Stats: {{gender}},{{age}},{{height}}{{weight}}
+    </h2>
   </div>
 </div>
 
@@ -8,28 +10,28 @@
   <div class="col-md-6">
     <h3>Create a New Workout:</h3>
 
-    <form class="form muscle-group">
-      <div class="muscle-group">
-        <label for="workout">what to add:</label>
+    <form class="workout">
+      <div class="workout">
+        <label for="muscle-group">what to add:</label>
         <input class="workoutType" type="text" id="muscle-name" name="muscle-name" />
       </div>
-      <div class="muscle-group">
+      <div class="workout">
         <label for="name">exercise name:</label>
         <input class="workoutType" type="text" id="name" name="name" />
       </div>
-      <div class="muscle-group">
+      <div class="workout">
         <label for="gif">gif:</label>
-        <input class="muscle-group" id="gif" name="gif"></input>
+        <input class="gif" id="gif" name="gif"></input>
       </div>
-      <div class="muscle-group">
+      <div class="workout">
         <label for="equipment">what equipment you need:</label>
-        <input class="muscle-group" id="equipment" name="equipment"></input>
+        <input class="equipment" id="equipment" name="equipment"></input>
       </div>
-      <div class="muscle-group">
+      <div class="workout">
         <label for="instructions">how to do it:</label>
-        <input class="muscle-group" id="instructions" name="instructions"></input>
+        <input class="instructions" id="instructions" name="instructions"></input>
       </div>
-      <div class="muscle-group">
+      <div class="workout">
         <button type="submit" class="btn btn-primary">Create</button>
       </div>
     </form>
