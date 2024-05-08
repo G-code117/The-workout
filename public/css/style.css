@@ -1,63 +1,63 @@
 /* Resetting default styles */
 html, body {
-    margin: 0;
-    padding: 0;
-  }
-  
-  body {
-    font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
-  }
-  
-  header {
-    background-color: #333;
-    color: #fff;
-    padding: 20px;
-    text-align: center;
-  }
-  
-  nav {
-    background-color: #666;
-    color: #fff;
-    padding: 10px;
-  }
-  
-  nav a, nav button {
-    color: #fff;
-    text-decoration: none;
-    padding: 5px 10px;
-    margin-right: 10px;
-  }
-  
-  nav button {
-    background-color: transparent;
-    border: none;
-    cursor: pointer;
-  }
-  
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #b63232;
+}
+
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+nav {
+  background-color: #666;
+  color: #fff;
+  padding: 10px;
+  text-align: center; /* Centering nav items */
+}
+
+nav a, nav button {
+  color: #fff;
+  text-decoration: none;
+  padding: 5px 10px;
+  margin-right: 10px;
+}
+
+nav button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+main {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+aside {
+  flex: 1;
+  background-color: #999;
+  color: #fff;
+  padding: 20px;
+}
+
+.exercise {
+  flex: 3;
+  background-color: #ccc;
+  padding: 20px;
+}
+
+/* Media query for responsive design */
+@media screen and (max-width: 768px) {
   main {
-    display: flex;
-    justify-content: space-between;
-    padding: 20px;
+    flex-direction: column;
   }
-  
-  aside {
-    flex: 1;
-    background-color: #999;
-    color: #fff;
-    padding: 20px;
-  }
-  
-  .exercise {
-    flex: 3;
-    background-color: #ccc;
-    padding: 20px;
-  }
-  
-  /* Media query for responsive design */
-  @media screen and (max-width: 768px) {
-    main {
-      flex-direction: column;
-    }
-  }
-  
+}
