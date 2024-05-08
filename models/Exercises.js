@@ -14,9 +14,9 @@ Exercise.init(
     musclegroup_id: {
         type: DataTypes.INTEGER,
         allowNull: false,
-        reference: {
+        references: {
             model: 'musclegroup',
-            key: 'id'
+            key: 'id',
         }
     },
     name: {
@@ -32,15 +32,15 @@ Exercise.init(
         allowNull: false,
     },
     instructions: {
-        type: DataTypes.STRING,
+        type: DataTypes.TEXT,
         allowNull: false,
     }
 },
 {
     sequelize,
     timestamps: false,
-    modelname: "exercise",
     freezeTableName: true,
+    modelName: "exercise",
 });
 
 module.exports = Exercise;

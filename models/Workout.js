@@ -15,7 +15,7 @@ Workout.init({
         allowNull: false,
         references: {
             model: 'user',
-            key: 'id'
+            key: 'id',
         }
     },
     exercise_id: {
@@ -23,7 +23,7 @@ Workout.init({
         allowNull: false,
         references: {
             model: 'exercise',
-            key: 'id'
+            key: 'id',
         }
     },
     name: {
@@ -37,7 +37,7 @@ Workout.init({
 },{
     sequelize,
     timestamps: false,
-    modelname: 'workout',
+    modelName: 'workout',
     freezeTableName: true,
 });
 
