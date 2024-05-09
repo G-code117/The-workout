@@ -4,60 +4,36 @@ html, body {
   padding: 0;
 }
 
-body {
-  font-family: Arial, sans-serif;
-  background-color: #b63232;
-}
+/* No need to specify font-family for body since Bootstrap already sets it */
 
-header {
-  background-color: #333;
-  color: #fff;
-  padding: 20px;
-  text-align: center;
-}
+/* No need for specific styles for header and nav since Bootstrap handles them */
 
-nav {
-  background-color: #666;
-  color: #fff;
-  padding: 10px;
-  text-align: center; /* Centering nav items */
-}
-
-nav a, nav button {
-  color: #fff;
-  text-decoration: none;
-  padding: 5px 10px;
-  margin-right: 10px;
-}
-
-nav button {
-  background-color: transparent;
-  border: none;
-  cursor: pointer;
-}
-
+/* Main styles */
 main {
-  display: flex;
-  justify-content: space-between;
-  padding: 20px;
+  padding-top: 20px;
 }
 
 aside {
-  flex: 1;
-  background-color: #999;
-  color: #fff;
+  color: #fff; /* Text color for aside */
   padding: 20px;
+  margin-bottom: 20px;
 }
 
 .exercise {
-  flex: 3;
-  background-color: #ccc;
+  background-color: #fff; /* White background for exercise */
+  color: #333; /* Text color for exercise */
   padding: 20px;
 }
 
-/* Media query for responsive design */
-@media screen and (max-width: 768px) {
-  main {
-    flex-direction: column;
-  }
+/* CSS for changing button colors on hover */
+.navbar-nav .nav-link:hover,
+.navbar-nav .btn:hover {
+  background-color: rgba(255, 255, 255, 0.2); /* Transparent white color on hover */
 }
+
+/* CSS for changing text color on hover */
+.navbar-nav .nav-link:hover,
+.navbar-nav .btn:hover {
+  color: #fff; /* White text color on hover */
+}
+/* No need for media queries for responsiveness since Bootstrap handles it */
