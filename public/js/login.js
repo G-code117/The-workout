@@ -6,14 +6,14 @@ const loginFormHandler = async (event) => {
     const password = document.querySelector('#password-login').value.trim();
   
     if (email && password) {
-      const response = await fetch('./api/user/login', {
+      const response = await fetch('/api/user/login', {
         method: 'POST',
         body: JSON.stringify({ email, password }),
         headers: { 'Content-Type': 'application/json' },
       });
   
       if (response.ok) {
-        document.location.replace('/users');
+        document.location.replace('/user');
       } else {
         alert('OH NO!',response.statusText);
       }
@@ -35,7 +35,7 @@ const loginFormHandler = async (event) => {
       });
   
       if (response.ok) {
-        document.location.replace('/users');
+        document.location.replace('/user');
       } else {
         alert(response.statusText);
       }
