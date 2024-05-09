@@ -1,5 +1,5 @@
 const router = require('express').Router();
-const { Workout, Exercise } = require('../../models');
+const { Workout } = require('../../models');
 const withAuth = require('../../utils/loginauth');
 
 // Get all workouts
