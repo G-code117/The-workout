@@ -54,7 +54,7 @@ router.get('/workout/:id', async (req, res) => {
   });
   
 // Use withAuth middleware to prevent access to route
-router.get('/users', withAuth, async (req, res) => {
+router.get('/user', withAuth, async (req, res) => {
     try {
       // Find the logged in user based on the session ID
       const userData = await User.findByPk(req.session.user_id, {
@@ -64,7 +64,7 @@ router.get('/users', withAuth, async (req, res) => {
   
       const user = userData.get({ plain: true });
   
-      res.render('users', {
+      res.render('user', {
         ...user,
         logged_in: true
       });
@@ -76,7 +76,7 @@ router.get('/users', withAuth, async (req, res) => {
 router.get('/login', (req, res) => {
     // If the user is already logged in, redirect the request to another route
     if (req.session.logged_in) {
-      res.redirect('/users');
+      res.redirect('/user');
       return;
     }
   
