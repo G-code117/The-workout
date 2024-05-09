@@ -4,36 +4,78 @@ html, body {
   padding: 0;
 }
 
-/* No need to specify font-family for body since Bootstrap already sets it */
+/* Custom Styles */
+body {
+  font-family: 'Roboto', Arial, sans-serif;
+  background-color: #f8f9fa; /* Light gray background */
+}
 
-/* No need for specific styles for header and nav since Bootstrap handles them */
+header {
+  background-color: #343a40; /* Dark background */
+  color: #fff; /* White text */
+  padding: 20px;
+  text-align: center;
+}
 
-/* Main styles */
+nav {
+  background-color: #343a40; /* Dark background */
+  color: #fff; /* White text */
+  padding: 10px;
+  text-align: center;
+}
+
+nav a, nav button {
+  color: #fff; /* White text */
+  text-decoration: none;
+  padding: 5px 10px;
+  margin-right: 10px;
+}
+
+nav button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+
 main {
   padding-top: 20px;
 }
 
 aside {
-  color: #fff; /* Text color for aside */
+  background-color: #495057; /* Gray background */
+  color: #fff; /* White text */
   padding: 20px;
   margin-bottom: 20px;
+  text-align: center;
 }
 
 .exercise {
-  background-color: #fff; /* White background for exercise */
-  color: #333; /* Text color for exercise */
+  background-color: #f8f9fa; /* Light gray background */
+  color: #212529; /* Dark text */
   padding: 20px;
 }
 
+/* Media query for responsive design */
+@media screen and (min-width: 768px) {
+  main {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+  .exercise {
+    width: 70%;
+  }
+}
+
 /* CSS for changing button colors on hover */
-.navbar-nav .nav-link:hover,
-.navbar-nav .btn:hover {
+.nav-link:hover,
+.btn:hover {
   background-color: rgba(255, 255, 255, 0.2); /* Transparent white color on hover */
 }
 
 /* CSS for changing text color on hover */
-.navbar-nav .nav-link:hover,
-.navbar-nav .btn:hover {
+.nav-link:hover,
+.btn:hover {
   color: #fff; /* White text color on hover */
 }
-/* No need for media queries for responsiveness since Bootstrap handles it */

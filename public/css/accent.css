@@ -1,0 +1,65 @@
+/* Accent colors */
+:root {
+  --accent-color: #0066ff; /* Blue */
+  --accent-bg-color: #0066ff; /* Blue */
+  --accent-border-color: #0066ff; /* Blue */
+  --accent-text-shadow: #0066ff; /* Blue */
+  --accent-box-shadow: #0066ff; /* Blue */
+  --accent-hover-bg-color: #0066ff; /* Blue */
+}
+
+/* Accent text */
+.accent-color {
+  color: var(--accent-color);
+}
+
+/* Accent background */
+.accent-bg-color {
+  background-color: var(--accent-bg-color);
+}
+
+/* Accent border */
+.accent-border-color {
+  border-color: var(--accent-border-color);
+}
+
+/* Accent text shadow */
+.accent-text-shadow {
+  text-shadow: 1px 1px 2px var(--accent-text-shadow);
+}
+
+/* Accent box shadow */
+.accent-box-shadow {
+  box-shadow: 2px 2px 4px var(--accent-box-shadow);
+}
+
+/* Accent hover effect */
+.accent-hover {
+  transition: background-color 0.3s ease;
+}
+
+.accent-hover:hover {
+  background-color: var(--accent-hover-bg-color);
+  color: #fff; /* White text color */
+}
+
+/* Custom accent styles for specific elements */
+header {
+  background-color: var(--accent-color);
+}
+
+nav {
+  background-color: #333; /* Dark gray color */
+}
+
+nav a, nav button {
+  color: #fff; /* White color */
+}
+
+nav a:hover, nav button:hover {
+  background-color: var(--accent-color);
+}
+
+aside {
+  background-color: #00ccff; /* Light blue color */
+}
