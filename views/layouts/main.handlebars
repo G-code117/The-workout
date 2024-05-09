@@ -8,6 +8,7 @@
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Roboto|Montserrat&display=swap" rel="stylesheet">
   <link rel="stylesheet" type="text/css" href="/css/accent.css"> <!-- Link to accent.css -->
+<<<<<<< HEAD
   <link rel="stylesheet" type="text/css" href="/css/styles.css"> <!-- Link to styles.css -->
   <style>
     /* Custom Styles */
@@ -87,6 +88,9 @@
       color: #fff;
     }
   </style>
+=======
+  <link rel="stylesheet" type="text/css" href="/css/style.css"> <!-- Link to styles.css -->
+>>>>>>> 6c3c026db3949251ba557b5843b07b5a7cdd3502
 </head>
 
 <body>
@@ -96,7 +100,7 @@
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
     <div class="container-fluid">
       <a class="navbar-brand" href="/">Home</a>
-      {{#if loggedIn}}
+      {{#if logged_in}}
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -122,5 +126,12 @@
   </main>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
 </body>
+<<<<<<< HEAD
 
 </html>
+=======
+{{#if logged_in}}
+<script src="./js/logout.js"></script>
+{{/if}}
+</html>
+>>>>>>> 6c3c026db3949251ba557b5843b07b5a7cdd3502

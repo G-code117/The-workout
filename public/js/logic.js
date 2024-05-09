@@ -1,18 +1,3 @@
-const template = Handlebars.compile();
-const data = {
-    feetOptions: generateOptions(0, 10), // Generate options for feet (0 to 10 feet)
-    inchesOptions: generateOptions(0, 11) // Generate options for inches (0 to 11 inches)
-};
-
-// Function to generate options for select element
-function generateOptions(start, end) {
-    let options = [];
-    for (let i = start; i <= end; i++) {
-        options.push(i);
-    }
-    return options;
-}
-
 const userPageEl = document.querySelector('#user-page');
 const loginEl = document.querySelector('#login');
 const nameInputEl = document.querySelector('#user');
