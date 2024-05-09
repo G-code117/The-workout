@@ -4,52 +4,9 @@ html, body {
   padding: 0;
 }
 
-<<<<<<< HEAD
 body {
-  font-family: 'Roboto', Arial, sans-serif; /* Use Roboto font */
+  font-family: 'Roboto', Arial, sans-serif;
   background-color: #b63232;
-}
-
-header {
-  font-family: 'Montserrat', Arial, sans-serif; /* Use Montserrat font */
-  background-color: #333;
-  color: #fff;
-  padding: 20px;
-  text-align: center;
-}
-
-nav {
-  background-color: #666;
-  color: #fff;
-  padding: 10px;
-  text-align: center;
-}
-
-nav a, nav button {
-  color: #fff;
-  text-decoration: none;
-  padding: 5px 10px;
-  margin-right: 10px;
-}
-
-nav button {
-  background-color: transparent;
-  border: none;
-  cursor: pointer;
-}
-=======
-/* No need to specify font-family for body since Bootstrap already sets it */
-
-/* No need for specific styles for header and nav since Bootstrap handles them */
->>>>>>> 4c40a7466fb189a2f19765070981615786e15dd2
-
-/* Main styles */
-main {
-<<<<<<< HEAD
-  display: flex;
-  flex-direction: column; 
-  align-items: center;
-  padding: 20px;
 }
 
 aside {
@@ -63,47 +20,47 @@ aside {
 .exercise {
   background-color: #ccc;
   color: #000;
-=======
-  padding-top: 20px;
-}
-
-aside {
-  color: #fff; /* Text color for aside */
-  padding: 20px;
-  margin-bottom: 20px;
-}
-
-.exercise {
-  background-color: #fff; /* White background for exercise */
-  color: #333; /* Text color for exercise */
->>>>>>> 4c40a7466fb189a2f19765070981615786e15dd2
   padding: 20px;
   width: 100%;
 }
 
-<<<<<<< HEAD
-/* Media query for responsive design */
-@media screen and (min-width: 768px) {
-  main {
-    flex-direction: row; 
-    justify-content: space-between; 
-  }
-
-  .exercise {
-    width: 70%;
-  }
+/* Bootstrap Navbar Styling */
+.navbar {
+  background-color: #333;
 }
-=======
-/* CSS for changing button colors on hover */
-.navbar-nav .nav-link:hover,
-.navbar-nav .btn:hover {
+
+.navbar-nav .nav-link {
+  color: #fff;
+}
+
+.navbar-nav .nav-link:hover {
+  color: #fff;
   background-color: rgba(255, 255, 255, 0.2); /* Transparent white color on hover */
 }
 
-/* CSS for changing text color on hover */
-.navbar-nav .nav-link:hover,
-.navbar-nav .btn:hover {
-  color: #fff; /* White text color on hover */
+/* Main Container Padding */
+.main-container {
+  padding-top: 20px;
 }
-/* No need for media queries for responsiveness since Bootstrap handles it */
->>>>>>> 4c40a7466fb189a2f19765070981615786e15dd2
+
+/* Button Styling */
+.btn-primary {
+  background-color: #0066ff;
+  border-color: #0066ff;
+}
+
+.btn-primary:hover {
+  background-color: #0056cc;
+  border-color: #0056cc;
+}
+
+/* Text color change on hover */
+.btn-primary:hover,
+.btn-primary:focus {
+  color: #fff;
+}
+
+/* Button Margin */
+.btn {
+  margin-right: 10px;
+}
