@@ -7,6 +7,7 @@ html, body {
 body {
   font-family: Arial, sans-serif;
   background-color: #b63232;
+  margin: 0; /* Add margin reset */
 }
 
 header {
@@ -20,7 +21,7 @@ nav {
   background-color: #666;
   color: #fff;
   padding: 10px;
-  text-align: center; /* Centering nav items */
+  text-align: center;
 }
 
 nav a, nav button {
@@ -38,26 +39,34 @@ nav button {
 
 main {
   display: flex;
-  justify-content: space-between;
+  flex-direction: column; /* Update flex-direction for responsiveness */
+  align-items: center; /* Center main content vertically */
   padding: 20px;
 }
 
 aside {
-  flex: 1;
   background-color: #999;
   color: #fff;
   padding: 20px;
+  margin-bottom: 20px; /* Add some bottom margin for separation */
+  text-align: center; /* Center text */
 }
 
 .exercise {
-  flex: 3;
   background-color: #ccc;
+  color: #000; /* Change text color for better readability */
   padding: 20px;
+  width: 100%; /* Ensure the exercise div takes full width */
 }
 
 /* Media query for responsive design */
-@media screen and (max-width: 768px) {
+@media screen and (min-width: 768px) {
   main {
-    flex-direction: column;
+    flex-direction: row; /* Change flex direction for larger screens */
+    justify-content: space-between; /* Adjust spacing */
+  }
+
+  .exercise {
+    width: 70%; /* Adjust width of exercise div */
   }
 }
