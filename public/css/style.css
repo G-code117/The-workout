@@ -4,9 +4,42 @@ html, body {
   padding: 0;
 }
 
+/* Custom Styles */
 body {
   font-family: 'Roboto', Arial, sans-serif;
   background-color: #b63232;
+}
+
+header {
+  font-family: 'Montserrat', Arial, sans-serif;
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+nav {
+  background-color: #666;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+}
+
+nav a, nav button {
+  color: #fff;
+  text-decoration: none;
+  padding: 5px 10px;
+  margin-right: 10px;
+}
+
+nav button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+main {
+  padding-top: 20px;
 }
 
 aside {
@@ -21,46 +54,29 @@ aside {
   background-color: #ccc;
   color: #000;
   padding: 20px;
-  width: 100%;
 }
 
-/* Bootstrap Navbar Styling */
-.navbar {
-  background-color: #333;
+/* Media query for responsive design */
+@media screen and (min-width: 768px) {
+  main {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+  .exercise {
+    width: 70%;
+  }
 }
 
-.navbar-nav .nav-link {
-  color: #fff;
-}
-
-.navbar-nav .nav-link:hover {
-  color: #fff;
+/* CSS for changing button colors on hover */
+.navbar-nav .nav-link:hover,
+.navbar-nav .btn:hover {
   background-color: rgba(255, 255, 255, 0.2); /* Transparent white color on hover */
 }
 
-/* Main Container Padding */
-.main-container {
-  padding-top: 20px;
-}
-
-/* Button Styling */
-.btn-primary {
-  background-color: #0066ff;
-  border-color: #0066ff;
-}
-
-.btn-primary:hover {
-  background-color: #0056cc;
-  border-color: #0056cc;
-}
-
-/* Text color change on hover */
-.btn-primary:hover,
-.btn-primary:focus {
-  color: #fff;
-}
-
-/* Button Margin */
-.btn {
-  margin-right: 10px;
+/* CSS for changing text color on hover */
+.navbar-nav .nav-link:hover,
+.navbar-nav .btn:hover {
+  color: #fff; /* White text color on hover */
 }
