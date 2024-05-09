@@ -12,9 +12,10 @@ router.get('/', async (req, res) => {
 });
 
 // Getting exercises by muscle group ID
-router.get('/:id', async (req, res) => {
+router.get('/:muscleGroupName', async (req, res) => {
     try {
-        const muscleData = await MuscleGroup.findByPk(req.params.id,{
+        const muscleData = await MuscleGroup.findOne(
+            { where: {name: req.params.name},
             include: [ Exercise ]
         });
 
