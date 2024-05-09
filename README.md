@@ -1,5 +1,5 @@
-# The-Workout
-#### A fitness app that will help you plan your workouts.
+# Get Spiced!
+#### Welcome to Get Spiced, your ultimate workout companion designed to add flavor to your fitness journey! Get Spiced is not just another workout app; it's a dynamic platform crafted to ignite your passion for exercise and keep you motivated every step of the way.
 
  [![NPM Express](https://img.shields.io/badge/NPM-Express-orange.svg)](https://www.npmjs.com/package/express)
  [![NPM Express-Session](https://img.shields.io/badge/NPM-ExpressSession-orange.svg)](https://www.npmjs.com/package/express-session)
@@ -10,7 +10,7 @@
  [![NPM Bcrypt](https://img.shields.io/badge/NPM-Bcrypt-orange.svg)](https://www.npmjs.com/package/bcrypt)
 
 ## Description
-
+Get Spiced is designed to help you organize and optimize your fitness routine, making it easier to achieve your health and wellness goals. Whether you're a seasoned gym-goer or just starting out on your fitness journey, this app provides the tools you need to plan, track, and adjust your workouts with ease.
 
 ## Table of Contents
 
