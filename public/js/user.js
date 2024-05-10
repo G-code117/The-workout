@@ -23,6 +23,14 @@ const currentWorkout = async (event) => {
 };
 
 
+const newWorkout = document.querySelector("#newworkout");
+const createWorkout = async (event) => {
+  event.preventDefault();
 
 
+
+  document.location.replace('/api/new');
+}
+
+newWorkout.addEventListener("click", createWorkout);
 workouts.addEventListener("click", currentWorkout);

@@ -1,5 +1,5 @@
 const router = require('express').Router();
-const { Workout } = require('../../models');
+const { Workout, MuscleGroup, Routine, Exercise } = require('../../models');
 const withAuth = require('../../utils/loginauth');
 
 // Get all workouts
@@ -29,12 +29,22 @@ router.get('/:id', async (req, res) => {
 // Post new workout
 router.post('/new', withAuth, async (req, res) => {
   try {
-    const newWorkout = await Workout.create({
-      name: req.body.name,
-      exercise_id: req.body.exercise_id,
-      user_id: req.session.user_id,
+    console.log("in createWorkout route");
+    const muscleData = await MuscleGroup.findById(req.params.id, {
+      include: [
+        {
+          model: Exercise, through: Routine
+          
+        },
+      ],
     });
 
+    const createworkout = muscleData.get({ plain: true });
+
+    res.render("createworkout", {
+      createworkout,
+      logged_in: req.session.logged_in,
+    });
     res.status(200).json(newWorkout);
   } catch (err) {
     res.status(400).json(err);

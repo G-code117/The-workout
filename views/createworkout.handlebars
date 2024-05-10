@@ -1,0 +1,16 @@
+{{#if createWorkout}}
+<div class="row mt-4">
+  <div class="col-md-6">
+    <form class="workout">
+     <div class="form-group">
+        <label for="muscle-group">Choose a Muscle Group:</label>
+        <select class="form-select" id="muscle-group" name="muscle-group">
+          {{#each muscleGroup as |muscle|}}
+            <option value={{muscle.id}}>{{muscle.name}}</option>
+          {{/each}}
+        </select>
+      </div>
+    </form>
+  </div>
+</div>
+{{/if}}
