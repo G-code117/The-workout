@@ -12,7 +12,6 @@ router.get('/', withAuth, async (req, res) => {
       });
   
       const user = userData.get({ plain: true });
-      console.log(user);
 
         res.render('homepage', { 
             user, 
@@ -39,7 +38,7 @@ router.get('/workout/:id', async (req, res) => {
       });
   
       const workout = workoutData.get({ plain: true });
-  
+      console.log(workout);
       res.render('workout', {
         ...workout,
         logged_in: req.session.logged_in
