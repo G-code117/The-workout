@@ -3,23 +3,19 @@ const { Exercise, User, Workout } = require('../models');
 const withAuth = require('../utils/loginauth');
 
 // GET homepage
-router.get('/', async (req, res) => {
+router.get('/', withAuth, async (req, res) => {
     try {
-        const workoutData = await Workout.findAll({
-            include: [
-                {
-                    model: User,
-                    attributes: ['name'],
-                },
-            ],
-        });
+        // Find the logged in user based on the session ID
+      const userData = await User.findByPk(req.session.user_id, {
+        attributes: { exclude: ['password'] },
+        include: [{ model: Workout }],
+      });
+  
+      const user = userData.get({ plain: true });
+      console.log(user);
 
-        // Serialize data so the template can read it
-        const workouts = workoutData.map(workout => workout.get({ plain: true }));
-
-        // Pass serialized data and session flag into template
         res.render('homepage', { 
-            workouts, 
+            user, 
             loggedIn: req.session.loggedIn 
         });
     } catch (err) {
@@ -49,26 +45,6 @@ router.get('/workout/:id', async (req, res) => {
         logged_in: req.session.logged_in
       });
 
-    } catch (err) {
-      res.status(500).json(err);
-    }
-  });
-  
-// Use withAuth middleware to prevent access to route
-router.get('/user', withAuth, async (req, res) => {
-    try {
-      // Find the logged in user based on the session ID
-      const userData = await User.findByPk(req.session.user_id, {
-        attributes: { exclude: ['password'] },
-        include: [{ model: Workout }],
-      });
-  
-      const user = userData.get({ plain: true });
-  
-      res.render('user', {
-        ...user,
-        logged_in: true
-      });
     } catch (err) {
       res.status(500).json(err);
     }
