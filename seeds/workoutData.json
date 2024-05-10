@@ -1,6 +1,66 @@
 [
     {
-       "name": "arms day",
+       "name": "Chest and Triceps",
        "user_id": 1 
-    }
+    },
+    {
+        "name": "Chest and Triceps",
+        "user_id": 2 
+     },
+     {
+        "name": "Chest and Triceps",
+        "user_id": 3 
+     },
+    {
+        "name": "Chest and Triceps",
+        "user_id": 4 
+     },
+     {
+        "name": "Back and Biceps",
+        "user_id": 1
+     },
+     {
+        "name": "Back and Biceps",
+        "user_id": 2
+     },
+     {
+        "name": "Back and Biceps",
+        "user_id": 3
+     },
+     {
+        "name": "Back and Biceps",
+        "user_id": 4
+     },
+     {
+        "name": "Leg Day",
+        "user_id": 1
+     },
+     {
+        "name": "Leg Day",
+        "user_id": 2
+     },
+     {
+        "name": "Leg Day",
+        "user_id": 3
+     },
+     {
+        "name": "Leg Day",
+        "user_id": 4
+     },
+     {
+        "name": "Cardio HELL Day",
+        "user_id": 1
+     },
+     {
+        "name": "Cardio HELL Day",
+        "user_id": 2
+     },
+     {
+        "name": "Cardio HELL Day",
+        "user_id": 3
+     },
+     {
+        "name": "Cardio HELL Day",
+        "user_id": 4
+     }
 ]
