@@ -10,35 +10,30 @@ body {
   background-color: #f8f9fa; /* Light gray background */
 }
 
-header {
+header, nav {
   background-color: #343a40; /* Dark background */
   color: #fff; /* White text */
-  padding: 20px;
+  padding: 20px 0; /* Vertical padding only */
   text-align: center;
 }
 
-nav {
-  background-color: #343a40; /* Dark background */
-  color: #fff; /* White text */
-  padding: 10px;
-  text-align: center;
-}
-
-nav a, nav button {
+nav a, nav button, .btn {
   color: #fff; /* White text */
   text-decoration: none;
-  padding: 5px 10px;
+  padding: 10px;
   margin-right: 10px;
+  transition: background-color 0.3s, color 0.3s; /* Smooth transition */
+  border-radius: 5px; /* Rounded corners */
 }
 
-nav button {
+nav button, .btn {
   background-color: transparent;
   border: none;
   cursor: pointer;
 }
 
 main {
-  padding-top: 20px;
+  padding: 20px;
 }
 
 aside {
@@ -59,23 +54,19 @@ aside {
 @media screen and (min-width: 768px) {
   main {
     display: flex;
-    flex-direction: row;
+    flex-wrap: wrap; /* Allow elements to wrap */
     justify-content: space-between;
   }
 
   .exercise {
-    width: 70%;
+    width: calc(70% - 20px); /* Adjust for padding */
+    margin-right: 20px; /* Add margin between exercises */
   }
 }
 
-/* CSS for changing button colors on hover */
+/* CSS for changing button and link colors on hover */
 .nav-link:hover,
 .btn:hover {
   background-color: rgba(255, 255, 255, 0.2); /* Transparent white color on hover */
-}
-
-/* CSS for changing text color on hover */
-.nav-link:hover,
-.btn:hover {
   color: #fff; /* White text color on hover */
 }
