@@ -15,10 +15,14 @@
 //     });
 // }
 const workouts = document.querySelector("#workouts");
-console.log(workouts);
 const currentWorkout = async (event) => {
   event.preventDefault();
   const id = event.target.id;
-  document.redirect(`/workout/${id}`);
+  console.log(id);
+  document.location.replace(`/workout/${id}`);
 };
+
+
+
+
 workouts.addEventListener("click", currentWorkout);
