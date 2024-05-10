@@ -8,7 +8,12 @@ const signupFormHandler = async (event) => {
     const age = parseInt(document.querySelector("#age-signup").value);
     const height = parseFloat(document.querySelector("#height-signup").value);
     const weight = parseFloat(document.querySelector("#weight-signup").value);
+
+   console.log( name, email, password, gender, age, height, weight);
+    
     if (name && email && password && !isNaN(age) && !isNaN(height) && !isNaN(weight)) {
+
+
 
       const response = await fetch('/api/user/signup', {
         method: 'POST',    

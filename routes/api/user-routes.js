@@ -11,22 +11,6 @@ router.get('/', async (req, res) => {
     }
 });
 
-router.post('/signup', async (req, res) => {
-  try {
-    const newUser = await User.create(req.body);
-
-    req.session.save(() => {
-      req.session.user_id = userData.id;
-      req.session.logged_in = true;
-
-      res.status(201).json(newUser);
-    });
-  } catch (error){
-    console.error('Error saving user to database:', error);
-    res.status(500).json({ error: 'An error occurred while saving user to database' });
-  }
-  });
-
 router.post('/login', BMR, async (req, res) => {
   try {
     const user = await User.findOne({ where: { email: req.body.email } });
@@ -47,16 +31,23 @@ router.post('/login', BMR, async (req, res) => {
   }
 });
 
-// router.post('/signup', BMR, async (req, res) => {
-//   try {
-//     const newUser = await User.create(req.body);
+router.post('/signup', async (req, res) => {
+  console.log(req.body);
+  
+  try {
+    const newUser = await User.create(req.body);
 
-// res.status(201).json({ user: newUser, BMR: req.BMR });
-// } catch (error){
-//   console.error('Error saving user to database:', error);
-//   res.status(500).json({ error: 'An error occurred while saving user to database' });
-// }
-// });
+    req.session.save(() => {
+      req.session.user_id = newUser.id;
+      req.session.logged_in = true;
+
+      res.status(201).json(newUser);
+    });
+  } catch (error){
+    console.error('Error saving user to database:', error);
+    res.status(500).json({ error: 'An error occurred while saving user to database' });
+  }
+  });
 
 router.post('/logout', (req, res) => {
   if (req.session.logged_in) {
