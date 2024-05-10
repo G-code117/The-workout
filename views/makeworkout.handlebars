@@ -1,0 +1,26 @@
+<h1>
+    Create Workout Here
+</h1>
+<form >
+    <label for="workoutName">what should we call your workout?</label>
+    <input type="text" id="workoutName"/>
+    <div>select all the exercises you want in your workout</div>
+    {{#each exercises as |exercise|}}
+  <div>
+  <input type="checkbox" id={{exercise.id}} value={{exercise.id}}>
+  <label for={{exercise.id}}>
+    {{exercise.name}}
+  </label>
+  <div>
+        {{exercise.name}}
+    </div>
+    <img src={{exercise.gif}} alt={{exercise.name}}/>
+    <div>
+        {{exercise.equipment}}
+    </div>
+    <div>
+        {{exercise.instructions}}
+    </div>
+  </div>
+  {{/each}}
+</form>

@@ -86,7 +86,8 @@ router.post("/getExercises", withAuth, async (req,res) =>{
       include: {model: MuscleGroup}
     })
     getExercises = getExercises.map((exercise) => exercise.get({plain: true}))
-    res.render('')
+    console.log(getExercises)
+    res.render('makeworkout',{exercise:getExercises, logged_in: req.session.logged_in})
   }catch(err){
   res.status(500).json(err)}
 })
