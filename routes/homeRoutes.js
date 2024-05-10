@@ -1,5 +1,5 @@
 const router = require("express").Router();
-const { Exercise, User, Workout, MuscleGroup } = require("../models");
+const { Exercise, User, Workout, MuscleGroup, Routine } = require("../models");
 const withAuth = require("../utils/loginauth");
 
 // GET homepage
@@ -12,7 +12,6 @@ router.get("/", withAuth, async (req, res) => {
     });
 
     const user = userData.get({ plain: true });
-    console.log(user)
     res.render("homepage", {
       user,
       logged_in: req.session.logged_in,
@@ -23,16 +22,13 @@ router.get("/", withAuth, async (req, res) => {
 });
 
 router.get("/workout/:id", async (req, res) => {
-  try {
+  try { 
+    console.log("in workout route")
     const workoutData = await Workout.findByPk(req.params.id, {
       include: [
         {
-          model: User,
-          attributes: ["name"],
-        },
-        {
-          model: Exercise,
-          include: [{ model: MuscleGroup }]
+          model: Routine,
+         // include: [{ model: Exercise, include: [{model: MuscleGroup}] }]
         },
       ],
     });
