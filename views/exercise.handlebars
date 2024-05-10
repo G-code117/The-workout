@@ -12,3 +12,20 @@
     <button class="btn btn-primary">add this exercise!💪</button>
   </p>
 </div>
+
+
+  {{#if selectedExercise}}
+  <div class="col-md-6">
+    <h3>Selected Exercise:</h3>
+    <div class="card">
+      <div class="card-body">
+        <h4>{{selectedExercise.name}}</h4>
+        <p>{{selectedExercise.gif}}</p>
+        <p>{{selectedExercise.equipment}}</p>
+        <p>{{selectedExercise.instructions}}</p>
+        <p>Muscle Group: <span class="badge bg-primary">{{selectedExercise.muscleGroup}}</span></p>
+        <button class="btn btn-primary add-exercise-btn">Add Exercise</button>
+      </div>
+    </div>
+  </div>
+  {{/if}}

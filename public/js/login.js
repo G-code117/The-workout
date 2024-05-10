@@ -13,7 +13,7 @@ const loginFormHandler = async (event) => {
       });
   
       if (response.ok) {
-        document.location.replace('/user');
+        document.location.replace('/');
       } else {
         alert('OH NO!',response.statusText);
       }
