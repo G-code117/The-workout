@@ -1,6 +1,18 @@
 <div class="row">
   <div class="col-auto">
-    {{user.name}}
+    <h4>{{workout.name}}</h4>
+    {{#each workout.exercises as |exercise|}}
+    <div>
+        {{exercise.name}}
+    </div>
+    <img src={{exercise.gif}} alt={{exercise.name}}/>
+    <div>
+        {{exercise.equipment}}
+    </div>
+    <div>
+        {{exercise.instruction}}
+    </div>
+    {{/each}}
     its workout time
   </div>
 </div>
