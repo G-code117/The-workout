@@ -27,8 +27,8 @@ router.get("/workout/:id", async (req, res) => {
     const workoutData = await Workout.findByPk(req.params.id, {
       include: [
         {
-          model: Routine,
-         // include: [{ model: Exercise, include: [{model: MuscleGroup}] }]
+          model: Exercise, through: Routine
+          
         },
       ],
     });
