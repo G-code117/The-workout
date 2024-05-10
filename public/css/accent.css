@@ -1,65 +1,43 @@
-/* Accent colors */
-:root {
-  --accent-color: #0066ff; /* Blue */
-  --accent-bg-color: #0066ff; /* Blue */
-  --accent-border-color: #0066ff; /* Blue */
-  --accent-text-shadow: #0066ff; /* Blue */
-  --accent-box-shadow: #0066ff; /* Blue */
-  --accent-hover-bg-color: #0066ff; /* Blue */
+/* accent.css */
+
+/* Accent color for buttons */
+.btn-accent {
+  background-color: #FF6B6B; /* Coral */
+  color: #fff; /* White text */
+  border-color: #FF6B6B; /* Coral */
+  transition: background-color 0.3s, color 0.3s; /* Smooth transition */
+  border-radius: 5px; /* Rounded corners */
 }
 
-/* Accent text */
-.accent-color {
-  color: var(--accent-color);
+.btn-accent:hover {
+  background-color: #FF5A5A; /* Darker coral on hover */
 }
 
-/* Accent background */
-.accent-bg-color {
-  background-color: var(--accent-bg-color);
+/* Accent color for links */
+a.accent-link {
+  color: #007bff; /* Blue */
+  transition: color 0.3s; /* Smooth transition */
 }
 
-/* Accent border */
-.accent-border-color {
-  border-color: var(--accent-border-color);
+a.accent-link:hover {
+  color: #0056b3; /* Darker blue on hover */
 }
 
-/* Accent text shadow */
-.accent-text-shadow {
-  text-shadow: 1px 1px 2px var(--accent-text-shadow);
+/* Accent color for headers */
+h2.accent-header {
+  color: #6c757d; /* Gray */
+  transition: color 0.3s; /* Smooth transition */
 }
 
-/* Accent box shadow */
-.accent-box-shadow {
-  box-shadow: 2px 2px 4px var(--accent-box-shadow);
+h2.accent-header:hover {
+  color: #343a40; /* Darker gray on hover */
 }
 
-/* Accent hover effect */
-.accent-hover {
-  transition: background-color 0.3s ease;
+/* Accent color for navigation */
+.navbar-dark .navbar-nav .nav-link.accent-link {
+  color: #fff; /* White text */
 }
 
-.accent-hover:hover {
-  background-color: var(--accent-hover-bg-color);
-  color: #fff; /* White text color */
-}
-
-/* Custom accent styles for specific elements */
-header {
-  background-color: var(--accent-color);
-}
-
-nav {
-  background-color: #333; /* Dark gray color */
-}
-
-nav a, nav button {
-  color: #fff; /* White color */
-}
-
-nav a:hover, nav button:hover {
-  background-color: var(--accent-color);
-}
-
-aside {
-  background-color: #00ccff; /* Light blue color */
+.navbar-dark .navbar-nav .nav-link.accent-link:hover {
+  color: #f8f9fa; /* Lighter gray on hover */
 }
