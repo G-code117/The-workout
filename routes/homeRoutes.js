@@ -1,6 +1,8 @@
 const router = require("express").Router();
 const { Exercise, User, Workout, MuscleGroup, Routine } = require("../models");
+const { findAll } = require("../models/Users");
 const withAuth = require("../utils/loginauth");
+const {Op}= require("sequelize")
 
 // GET homepage
 router.get("/", withAuth, async (req, res) => {
@@ -21,7 +23,7 @@ router.get("/", withAuth, async (req, res) => {
   }
 });
 
-router.get("/workout/:id", async (req, res) => {
+router.get("/workout/:id", withAuth, async (req, res) => {
   try { 
     console.log("in workout route")
     const workoutData = await Workout.findByPk(req.params.id, {
@@ -63,5 +65,31 @@ router.get("/signup", (req, res) => {
 
   res.render("signup");
 });
+
+router.get("/createWorkout", withAuth, async (req, res) =>{
+  try {
+    let muscleGroup = await MuscleGroup.findAll({});
+    muscleGroup = muscleGroup.map((muscle) => muscle.get({plain: true}));
+    res.render("createworkout",{muscleGroup, logged_in: req.session.logged_in});
+
+}catch(err){
+  res.status(500).json(err)
+}})
+router.post("/getExercises", withAuth, async (req,res) =>{
+  try {
+    let getExercises = await Exercise.findAll({
+      where:{
+        musclegroup_id:{
+          [Op.in]:req.body.selectedMuscles
+        }
+      },
+      include: {model: MuscleGroup}
+    })
+    getExercises = getExercises.map((exercise) => exercise.get({plain: true}))
+    res.render('')
+  }catch(err){
+  res.status(500).json(err)}
+})
+
 
 module.exports = router;

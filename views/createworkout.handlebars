@@ -1,4 +1,4 @@
-{{#if createWorkout}}
+{{!-- {{#if createWorkout}}
 <div class="row mt-4">
   <div class="col-md-6">
     <form class="workout">
@@ -13,4 +13,17 @@
     </form>
   </div>
 </div>
-{{/if}}
+{{/if}} --}}
+<h1>welcome to creating your workout select muscle-group</h1>
+<div>
+  {{#each muscleGroup as |muscle|}}
+  <div>
+  <input type="checkbox" id={{muscle.id}} value={{muscle.id}}>
+  <label for={{muscle.id}}>
+    {{muscle.name}}
+  </label>
+  </div>
+  {{/each}}
+  <button id="muscleGroup">muscle selected</button>
+</div>
+<script src="./js/muscleGroup.js"></script>

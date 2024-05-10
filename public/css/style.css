@@ -27,7 +27,7 @@ nav a, nav button, .btn {
 }
 
 nav button, .btn {
-  background-color: transparent;
+  /* background-color: transparent; */
   border: none;
   cursor: pointer;
 }
@@ -65,8 +65,8 @@ aside {
 }
 
 /* CSS for changing button and link colors on hover */
-.nav-link:hover,
+/* .nav-link:hover,
 .btn:hover {
-  background-color: rgba(255, 255, 255, 0.2); /* Transparent white color on hover */
-  color: #fff; /* White text color on hover */
-}
+  background-color: rgba(255, 255, 255, 0.2);  Transparent white color on hover 
+  color: #fff;  White text color on hover 
+} */
