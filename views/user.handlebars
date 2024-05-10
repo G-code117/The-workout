@@ -2,38 +2,36 @@
   <div class="col-auto">
     <h2>Welcome, {{name}}!</h2>
     <h2>Stats: {{gender}}, {{age}}, Height:{{height}}, Weight:{{weight}} lbs</h2>
-    
+    <h2>BMR: {{BMR}}</h2>
   </div>
 </div>
 
-<div class="row mt-4">
+<div>
+  <h3>Current Workouts:</h3>
+  <div>
+    {{#each Workouts as |workout|}}
+      <div id={{workout.id}}>
+        {{workout.name}}
+      </div>
+    {{/each}}
+  </div>
+</div>
+
+{{!-- <div class="row mt-4">
   <div class="col-md-6">
     <h3>Create a New Workout:</h3>
     <form class="workout">
-      <div class="form-group">
+     <div class="form-group">
         <label for="muscle-group">Choose a Muscle Group:</label>
         <select class="form-select" id="muscle-group" name="muscle-group">
+          {{#each muscleGroup as |muscle|}}
+            <option value={{muscle.id}}>{{muscle.name}}</option>
+          {{/each}}
         </select>
       </div>
       <button type="submit" class="btn btn-primary">Create Workout</button>
     </form>
   </div>
+</div> --}}
 
-  {{#if selectedExercise}}
-  <div class="col-md-6">
-    <h3>Selected Exercise:</h3>
-    <div class="card">
-      <div class="card-body">
-        <h4>{{selectedExercise.name}}</h4>
-        <p>{{selectedExercise.gif}}</p>
-        <p>{{selectedExercise.equipment}}</p>
-        <p>{{selectedExercise.instructions}}</p>
-        <p>Muscle Group: <span class="badge bg-primary">{{selectedExercise.muscleGroup}}</span></p>
-        <button class="btn btn-primary add-exercise-btn">Add Exercise</button>
-      </div>
-    </div>
-  </div>
-  {{/if}}
-</div>
-
-<script src="./js/user.js"></script>
+{{!-- <script src="./js/user.js"></script> --}}

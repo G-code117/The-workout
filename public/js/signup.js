@@ -1,21 +1,27 @@
-const calculate = require('fitness-health-calculations');
-function BMR(gender, age, height, weight) {
-    let myBmr = calculate.bmr(gender, age, height, weight);
-    return myBmr;
-}
 const signupFormHandler = async (event) => {
     event.preventDefault();
     
     const name = document.querySelector('#name-signup').value.trim();
     const email = document.querySelector('#email-signup').value.trim();
     const password = document.querySelector('#password-signup').value.trim();
-    const gender = document.querySelector("#gender").value;
-    const age = parseInt(document.querySelector("#age").value);
-    const height = parseFloat(document.querySelector("#height").value);
-    const weight = parseFloat(document.querySelector("#weight").value);
+    const gender = document.querySelector("#gender-signup").value;
+    const age = parseInt(document.querySelector("#age-signup").value);
+    const height = parseFloat(document.querySelector("#height-signup").value);
+    const weight = parseFloat(document.querySelector("#weight-signup").value);
+
+   console.log( name, email, password, gender, age, height, weight);
+    
     if (name && email && password && !isNaN(age) && !isNaN(height) && !isNaN(weight)) {
-        const myBmr = BMR(gender, age, height, weight);
-    body: JSON.stringify({ name, email, password, gender, age, height, weight })
+
+
+
+      const response = await fetch('/api/user/signup', {
+        method: 'POST',    
+        body: JSON.stringify({ name, email, password, gender, age, height, weight }),
+        headers: {
+          'Content-Type': 'application/json'
+        }
+      });  
   
       if (response.ok) {
         document.location.replace('/user');
