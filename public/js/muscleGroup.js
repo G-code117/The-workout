@@ -1,5 +1,6 @@
 const getSwole = document.querySelector("#muscleGroup");
 
+
 const bulkingUP =  async (event) => {
   event.preventDefault();
   const selectedMuscles = [];
