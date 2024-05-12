@@ -7,13 +7,16 @@
   <title>Get Spiced!</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Roboto|Montserrat&display=swap" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poetsen+One&display=swap" rel="stylesheet">
   <link rel="stylesheet" type="text/css" href="/css/accent.css"> <!-- Link to accent.css -->
   <link rel="stylesheet" type="text/css" href="/css/style.css"> <!-- Link to styles.css -->
 </head>
 
 <body>
   <header>
-    <h1>Welcome to Your Work out Plan</h1>
+    <h1 class="poetsen-one-regular" id="extra-spice">Get Spiced!</h1>
   </header>
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
     <div class="container-fluid">
@@ -24,6 +27,18 @@
       </button>
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav ms-auto">
+          <li class="nav-item dropdown">
+          <button class="nav-link btn dropdown-toggle" href="#" id="navbarDropdown" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+          Our Pages
+        </button>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item" href="https://github.com/LockedJCE">Jensen's Github</a>
+          <a class="dropdown-item" href="https://github.com/jasongalas">Jason's Github</a>
+          <a class="dropdown-item" href="https://github.com/G-code117">Gordon's Github</a>
+          <a class="dropdown-item" href="https://github.com/ZachariahKB">Zach's Github</a>
+          <div class="dropdown-divider"></div>
+          <a class="dropdown-item" href="https://github.com/G-code117/The-workout">Our Git Repository Page</a>
+        </div>
           <li class="nav-item">
             <button id="logout" class="nav-link btn btn-outline-light">Logout</button>
           </li>
@@ -35,8 +50,8 @@
     </div>
   </nav>
   <main class="container">
-    <aside class="bg-secondary text-white">
-      <h2>💪🏼 Become a Power House 💪🏼</h2>
+    <aside class="bg-dark poetsen-one-regular">
+      <h2 class="gradient">💪🏼 Become a Power House 💪🏼</h2>
     </aside>
     <div class="d-flex p-2 bd-highlight" class="exercise bg-light p-4">
       {{{body}}}

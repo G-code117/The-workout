@@ -1,18 +1,20 @@
 <div class="row">
   <div class="col-auto">
-    <h4>{{workout.name}}</h4>
+    <h4 class="bolder">{{workout.name}}</h4>
     {{#each workout.exercises as |exercise|}}
-    <div>
+    <div class="bolder">
         {{exercise.name}}
     </div>
-    <img src={{exercise.gif}} alt={{exercise.name}}/>
-    <div>
+    <img class="gif" src={{exercise.gif}} alt={{exercise.name}}/>
+    <div class="equipment">
         {{exercise.equipment}}
     </div>
     <div>
         {{exercise.instructions}}
     </div>
     {{/each}}
-    its workout time
+    <aside class="bg-dark poetsen-one-regular">
+      <h2 class="workout-time">It's Workout Time!</h2>
+    </aside>
   </div>
 </div>
