@@ -1,24 +1,45 @@
+:root {
+  --white: #fff;
+  --black: #000000;
+  --spicy: #d90429;
+  --lighter: #8d99ae;
+  --darkblue: #2b2d42;
+  --secondary: #6c757d;
+  --button: #ff4d6d;
+}
+
+.poetsen-one-regular {
+  font-family: "Poetsen One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
 /* Resetting default styles */
 html, body {
   margin: 0;
   padding: 0;
+  height: 100%;
 }
 
 /* Custom Styles */
 body {
+  color: var(--black);
   font-family: 'Roboto', Arial, sans-serif;
-  background-color: #f8f9fa; /* Light gray background */
+  background-color: #6c757d;
+  /* background-image: linear-gradient(to bottom left,var(--spicy) 10%,var(--lighter), var(--darkblue));
+  background-repeat: no-repeat;
+  background-attachment: fixed; */
 }
 
 header, nav {
   background-color: #343a40; /* Dark background */
-  color: #fff; /* White text */
+  color: var(--white); /* White text */
   padding: 20px 0; /* Vertical padding only */
   text-align: center;
 }
 
 nav a, nav button, .btn {
-  color: #fff; /* White text */
+  color: var(--white); /* White text */
   text-decoration: none;
   padding: 10px;
   margin-right: 10px;
@@ -32,13 +53,20 @@ nav button, .btn {
   cursor: pointer;
 }
 
+.dropdown-menu {
+  color: var(--black);
+  background-image: linear-gradient(130deg ,var(--white) 60%, var(--spicy));
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
 main {
   padding: 20px;
 }
 
 aside {
   background-color: #495057; /* Gray background */
-  color: #fff; /* White text */
+  color: var(--white); /* White text */
   padding: 20px;
   margin-bottom: 20px;
   text-align: center;
@@ -48,6 +76,65 @@ aside {
   background-color: #f8f9fa; /* Light gray background */
   color: #212529; /* Dark text */
   padding: 20px;
+}
+
+.equipment {
+  display:inline-flex;
+  justify-content: right;
+  font-weight: bolder;
+}
+
+.gif {
+  border: solid;
+}
+
+.bolder {
+  font-weight: bolder;
+}
+
+#newWorkout {
+  color: var(--black);
+  background-image: linear-gradient(to bottom left,var(--spicy) 10%,var(--lighter), var(--darkblue));
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+#loginbtn {
+  color: var(--black);
+  background-color: var(--button);
+}
+
+.gradient {
+  color: var(--black);
+  background-image: linear-gradient(to bottom left ,var(--white) 20%, var(--spicy));
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent; 
+  -moz-text-fill-color: transparent;
+}
+
+.workout-time {
+  color: var(--black);
+  background-image: linear-gradient(120deg,var(--white) 20%, var(--spicy));
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent; 
+  -moz-text-fill-color: transparent;
+}
+
+#extra-spice {
+  font-size: 50px;
+  background-color: var(--spice);
+  background-image: linear-gradient(to bottom left ,var(--white) 20%, var(--spicy));
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent; 
+  -moz-text-fill-color: transparent;
 }
 
 /* Media query for responsive design */
